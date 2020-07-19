@@ -1,309 +1,309 @@
 UNIT,Sample,Flot Number,GID,Sum of Flot Volume,Clay Ball,Figurine,Clay Object,Shaped Clay,Pottery,Stone,Worked Bone,Worked Stone,Beads ,Plant ,Bone ,Mollusc ,Eggshell ,Obsidian ,Flint,Mound,Area,Building,Space,Feature,DataCategory,Location,Description,context,context subtype,Occ Phase
-22092,2,11429,22092.2.11429,5,,,,,,,,,,0.048000001,0.546000004,0.004,,7.16200003,,East,North,77,",336,",,activity,,fire spots (non-structured),activity,activity,B77.1.A
-19008,2,9196,19008.2.9196,20,,,,,,,,,,0.071999999,0.893499958,0.123999999,0.002,0.057999999,,East,North,77,",336,",",6052,",fill,cut,burial,burial fill,burial fill,B77.6
-19021,2,9222,19021.2.9222,28,,,,,,,,,,0.083928572,2.895357175,0.119285712,0.024999999,0.029642857,,East,North,77,",336,",",3601,",fill,cut,burial,burial fill,burial fill,B77.6
-19044,2,9229,19044.2.9229,32,,,,,0.226875007,,,,,0.051562501,2.062187495,0.073437499,0.0121875,0.062187501,,East,North,77,",336,",",3600,",fill,cut,burial,burial fill,burial fill,B77.6
-19295,2,9520,19295.2.9520,36,,,,,,,,,0.000833333,0.024444445,1.767777777,0.042222221,,0.021388888,,East,North,77,",336,",",3615,",fill,cut,burial,burial fill,burial fill,B77.7
-19471,5,9762,19471.5.9762,5,,,,,,,,,,0.018,0.386000003,0.046,,0.004,,East,North,77,",336,",",3642,",fill,cut,burial,burial fill,burial fill,B77.5
-19512,2,9446,19512.2.9446,8,,,,,,,,,0.07,0.055000001,2.46999998,0.056249999,0.0025,0.088750001,0.07,East,North,77,",336,",",3615,",fill,cut,burial,burial fill,burial fill,B77.7
-19525,2,9665,19525.2.9665,10,,,,,,,,,0.064999998,0.059000001,1.694,0.07,,0.089999999,,East,North,77,",336,",",3615,",fill,cut,burial,burial fill,burial fill,B77.7
-19526,2,9666,19526.2.9666,88,,,,,,,,,0.003977273,0.013977273,1.612045517,0.074204547,0.008977273,0.071931816,,East,North,77,",336,",",3616,",fill,cut,burial,burial fill,burial fill,B77.2.D
-19533,2,9617,19533.2.9617,2,,,,,,,,,,0.059999999,2.810000088,0.01,,0.005,,East,North,77,",336,",",3616,",fill,cut,burial,burial fill,burial fill,B77.2.D
-19534,2,9694,19534.2.9694,34,0.016176471,,,0.045882351,,,,,0.030000001,0.017352942,4.779117577,0.047058824,0.003235294,0.01,0.072352942,East,North,77,",336,",",3619,",fill,cut,burial,burial fill,burial fill,B77.5
-19540,2,9702,19540.2.9702,102,,,,,,,0.014607843,0,0.029117648,0.010588235,4.732941197,0.050784313,0.006176471,0.045686274,,East,North,77,",336,",",3620,",fill,cut,burial,burial fill,burial fill,B77.7
-20625,2,10342,20625.2.10342,23,,,,,,,,,0.037391305,0.007391304,1.823912992,0.016086957,0.005652174,0.00826087,,East,North,77,",336,",",6051,",fill,cut,burial,burial fill,burial fill,B77.7
-20686,2,10553,20686.2.10553,29,,,,,,,,,0.157241382,0.002068966,11.79206943,0.015517241,,0.047931034,,East,North,77,",336,",",3697,",fill,cut,burial,burial fill,burial fill,B77.7
-20688,2,10642,20688.2.10642,21,,,,,,,,,,0.054285715,1.836666671,0.05047619,0.006666667,0.039523809,,East,North,77,",336,",",7132,",fill,cut,burial,burial fill,burial fill,B77.3
-20930,2,10728,20930.2.10728,58,,,,,,0.228620694,,,,0.010517241,3.321206771,0.042068966,0.000517241,0.022586207,,East,North,77,",336,",",7130,",fill,cut,burial,burial fill,burial fill,B77.5
-20947,2,10703,20947.2.10703,24,,,,,,,,,,0.00625,2.850833264,0.034166666,0.001666667,0.0475,,East,North,77,",336,",",7136,",fill,cut,burial,burial fill,burial fill,B77.5
-20989,2,10634,20989.2.10634,16,,,0.066875003,,,,,,0.01,0.032500001,15.4931245,0.034999999,0.004375,0.105625,,East,North,77,",336,",",7133,",fill,cut,burial,burial fill,burial fill,B77.2.D
-21602,2,11644,21602.2.11644,17.5,,,,,,0.462857165,,,,0.045714287,1.122857141,0.038285715,0.002285714,0.078285713,,East,North,77,",336,",",7609,",fill,cut,burial,burial fill,burial fill,B77.2
-21605,1,11543,21605.1.11543,17.5,1.403999983,,,,,0.147428567,,,0.006857143,0.009142857,1.433714307,0.186285713,0.018285714,0.071999999,,East,North,77,",336,",",7611,",fill,cut,burial,burial fill,burial fill,B77.4
-21623,1,11654,21623.1.11654,12.39999962,,,,,,0.117741942,,,0.002419355,0.035483872,1.475806558,0.081451615,0.004032258,0.024193549,,East,North,77,",336,",",7853,",fill,cut,burial,burial fill,burial fill,B77.3.B
-21626,1,11673,21626.1.11673,18,,,,,,0.494999992,,,0.022777778,0.005,2.758888904,0.095000003,,0.048888889,,East,North,77,",336,",",7630,",fill,cut,burial,burial fill,burial fill,B77.2.C
-21637,2,11704,21637.2.11704,6,,,,,,,,,,0.013333333,2.723333254,0.060000002,0.001666667,0.021666666,,East,North,77,",336,",",7640,",fill,cut,burial,burial fill,burial fill,B77.4
-21655,2,11789,21655.2.11789,113,,,,,,0.326371691,,,,0.007433628,1.377787615,0.062389381,0.002566372,0.053185839,,East,North,77,",336,",",7853,",fill,cut,burial,burial fill,burial fill,B77.3.B
-21667,2,11957,21667.2.11957,15,,,,,,0.068666665,,,,0.003333333,1.493333277,0.051999999,0.004666667,0.027333333,,East,North,77,",336,",",7857,",fill,cut,burial,burial fill,burial fill,B77.3.A
-21677,3,11968,21677.3.11968,6,,,,,,,,,,0.011666666,0.50333335,0.021666666,0.016666666,0.023333333,,East,North,77,",336,",",7859,",fill,cut,burial,burial fill,burial fill,B77.3.A
-21680,2,11956,21680.2.11956,10,,,,,,0.251999998,,,0.002,0.005,3.579999939,0.068,,0.407000021,,East,North,77,",336,",",7862,",fill,cut,burial,burial fill,burial fill,B77.3
-21682,2,11993,21682.2.11993,16.5,2.293333343,0.047878789,,,,0.289090908,,,0.107272727,0.03030303,2.85818178,0.12606061,0.008484848,0.087272729,,East,North,77,",336,",",7860,",fill,cut,burial,burial fill,burial fill,B77.2.B
-22027,2,11361,22027.2.11361,82.5,,,,,0.050303031,0.273212132,,,0.001454545,0.022060606,1.61078793,0.086303029,0.003878788,0.03709091,,East,North,77,",336,",",7333,",fill,cut,burial,burial fill,burial fill,B77.3
-22041,2,11573,22041.2.11573,9,0.887777752,,,,,0.58666669,,,0.049999999,,2.240000023,,0.004444444,0.093333332,,East,North,77,",336,",",7562,",fill,cut,burial,burial fill,burial fill,B77.2.B
-22054,1,11627,22054.1.11627,11,,,,,,0.025454546,,,,0.004545454,0.631818192,0.140000001,0.065454544,0.047272727,,East,North,77,",336,",",6051,",fill,cut,burial,burial fill,burial fill,B77.2
-30154,2,10975,30154.2.10975,48,,,,,,0.231249998,0.036041667,0,0.031041667,0.005625,6.62375003,0.035625,0.011041667,0.044583332,0.02125,East,North,77,",336,",",7309,",fill,cut,burial,burial fill,burial fill,B77.2.C
-30195,2,11143,30195.2.11143,23.5,,,,,,0.152765954,,,0.035319149,0.002553192,3.073617031,0.15914894,0.005957447,0.028085106,0.024255319,East,North,77,",336,",",7309,",fill,cut,burial,burial fill,burial fill,B77.2.C
-30548,2,10778,30548.2.10778,75,,,0.005066667,,0.053733336,,,,0.012533333,0.015866667,2.978400013,0.046799999,0.007866667,0.0244,,East,North,77,",336,",",7137,",fill,cut,burial,burial fill,burial fill,B77.3
-17527,2,8654,17527.2.8654,16,,,0.30250001,,,,,,,0.045000001,0.628750001,0.013125,0.00875,0.043124998,,East,North,77,",336,",",6061,",cluster,building,,cluster,cluster,B77.9
-16480,5,8416,16480.5.8416,29.5,,,,0.121694912,,,,,,1.879322036,2.090169558,0.041016949,0.000338983,0.011525423,,East,North,77,",337,",,cluster,floors,,cluster,cluster,B77.B
-17510,1,8568,17510.1.8568,20,,,,,,,,,,0.031,0.699999996,0.01,,,,East,North,77,",336,",",6060,",cluster,floors,,cluster,cluster,B77.9
-30159,2,10946,30159.2.10946,3,,,,,,,,,,0.13,0.103333335,0.01,,0.023333333,,East,North,77,",336,",,construction/make-up/packing,between walls,,construction,construction between walls,B77.4
-16423,2,8060,16423.2.8060,14,,,,,,,,,,0.012857143,0.506428566,0.048571429,0.001428571,0.002857143,,East,North,77,",336,",,construction/make-up/packing,building,,construction,construction building,B77.9
-16431,2,8165,16431.2.8165,22,,,,,,,,,,0.031818182,0.366818186,0.139090912,0.005,0.005,,East,North,77,",336,",,construction/make-up/packing,building,,construction,construction building,B77.9
-19061,2,9286,19061.2.9286,1,,,,,,,,,,,0.309999999,,,,,East,North,77,",336,",",3095,",construction/make-up/packing,building,,construction,construction building,B77.7
-19075,2,9297,19075.2.9297,12,,,,,,,,,,0.006666667,0.285833335,0.008333334,,0.0025,,East,North,77,",336,",",3606,",construction/make-up/packing,building,,construction,construction building,B77.6
-19077,2,9334,19077.2.9334,8,,,,,,,,,,,0.295000014,0.04125,,0.0025,,East,North,77,",336,",",3094,",construction/make-up/packing,building,,construction,construction building,B77.7
-19094,2,9316,19094.2.9316,10,,,,1.060999966,,,,,,,13.48399939,0.007,0.008,0.006,,East,North,77,",336,",",8134,",construction/make-up/packing,building,,construction,construction building,B77.6
-19095,2,9333,19095.2.9333,6,,,,,,,,,,0.003333333,0.953333301,0.043333332,,0.006666667,,East,North,77,",336,",",8135,",construction/make-up/packing,building,,construction,construction building,B77.6
-19284,2,9424,19284.2.9424,2,,,,,,,,,,,8.255000107,0.02,0.095000003,0.025,,East,North,77,",336,",",3094,",construction/make-up/packing,building,,construction,construction building,B77.7
-19516,2,9486,19516.2.9486,4,,,,,,,,,,0.005,0.222500003,0.0275,,,,East,North,77,",336,",",3611,",construction/make-up/packing,building,,construction,construction building,B77.5
-19517,2,9454,19517.2.9454,2,,,,,,,,,,0.005,,0.015,,0.015,,East,North,77,",336,",",3611,",construction/make-up/packing,building,,construction,construction building,B77.5
-19519,2,9453,19519.2.9453,6,,,,,,,,,,0.005,0.238333329,0.01,,,,East,North,77,",336,",",364,",construction/make-up/packing,building,,construction,construction building,B77.5
-19524,2,9635,19524.2.9635,20,,,,,,,,,,0.0015,0.470000001,0.0145,,0.019,,East,North,77,",336,",",3611,",construction/make-up/packing,building,,construction,construction building,B77.5
-19528,2,9670,19528.2.9670,8,,,,,,,,,,0.005,0.596250001,0.01875,,0.0025,,East,North,77,",336,",,construction/make-up/packing,building,,construction,construction building,B77.4
-19532,2,9559,19532.2.9559,23,,,,,,,,,,0.015217392,0.394782589,0.006086956,,0.022608696,,East,North,77,",336,",",3617,",construction/make-up/packing,building,,construction,construction building,B77.4
-19537,2,9695,19537.2.9695,28,,,,,,,,,,,0.042857143,,,0.008571428,,East,North,77,",336,",",3,",construction/make-up/packing,building,,construction,construction building,B77.5
-19538,2,9624,19538.2.9624,20,,,0.0125,,,,,,,,0.028,0.01,,,,East,North,77,",336,",",3093,",construction/make-up/packing,building,,construction,construction building,B77.3.B
-22004,2,11185,22004.2.11185,5,,,,,,,,,0.006,0.099999999,1.070000046,0.008,,0.012,,East,North,77,",336,",,construction/make-up/packing,building,,construction,construction building,B77.2
-22025,2,11313,22025.2.11313,33,,,,,,,,,,0.011212121,0.592727259,0.116363634,0.003939394,0.033636363,,East,North,77,",336,",,construction/make-up/packing,building,,construction,construction building,B77.1.B
-22047,2,11321,22047.2.11321,3,,,,,,,,,,,0.243333323,0.04,,,,East,North,77,",336,",,construction/make-up/packing,building,,construction,construction building,B77.2
-22049,2,11451,22049.2.11451,27.5,,,,,,,,,,,0.309454553,0.021454546,0.005818182,0.045454546,,East,North,77,",336,",,construction/make-up/packing,building,,construction,construction building,B77.2
-22057,2,11330,22057.2.11330,9,,,,,,,,,,,0.736666658,0.006666667,0.150000001,0.16,,East,North,77,",336,",,construction/make-up/packing,building,,construction,construction building,B77.2
-22062,2,11395,22062.2.11395,9.5,,,,,,,,,,0.005263158,0.611578972,0.055789475,,0.109473685,,East,North,77,",336,",",6056,",construction/make-up/packing,building,,construction,construction building,B77.1.B
-22068,2,11379,22068.2.11379,24.5,,,,,,,,,,0.051428573,1.443673413,0.102857142,0.003265306,0.04122449,,East,North,77,",337,",,construction/make-up/packing,building,,construction,construction building,B77.1.B
-19073,2,9280,19073.2.9280,6,,,,,,,,,,0.049999999,1.12333334,0.01,,0.038333335,,East,North,77,",336,",",3605,",construction/make-up/packing,feature,basin,construction,construction feature,B77.6
-19277,2,9421,19277.2.9421,4,,,,,,,,,,0.127499998,0.739999978,,,,,East,North,77,",336,",",6050,",construction/make-up/packing,feature,basin,construction,construction feature,B77.6
-19515,2,9530,19515.2.9530,6,,,,,,,,,,0.086666666,1.104999989,0.043333333,0.003333333,0.01,,East,North,77,",336,",",3610,",construction/make-up/packing,feature,basin,construction,construction feature,B77.4
-22006,1,11176,22006.1.11176,6,,,,,,0.093333334,,,,,0.086666668,0.005,,0.003333333,,East,North,77,",336,",",7604,",construction/make-up/packing,feature,basin,construction,construction feature,B77.2
-22014,2,11220,22014.2.11220,13.5,,,,0.391111127,,,,,,0.008888889,0.436296288,0.050370371,0.000740741,0.017777778,,East,North,77,",336,",,construction/make-up/packing,feature,basin,construction,construction feature,B77.2
-19011,2,9210,19011.2.9210,20,0.087,,,,,,,,,0.0175,0.807000013,0.062999999,0.007,0.004,,East,North,77,",337,",",3091,",construction/make-up/packing,feature,bin,construction,construction feature,B77
-19031,2,9209,19031.2.9209,28,,,,,,,,,,0.031071429,0.484999998,0.056071428,0.002142857,0.022857143,,East,North,77,",337,",,construction/make-up/packing,feature,bin,construction,construction feature,B77
-19276,2,9436,19276.2.9436,2,,,,,,,,,,,0.01,0.005,,0.005,,East,North,77,",336,",",6050,",construction/make-up/packing,feature,bin,construction,construction feature,B77.6
-19282,2,9447,19282.2.9447,16,,,,,,,,,,0.00875,0.196249999,0.005625,,0.014375,,East,North,77,",336,",",3610,",construction/make-up/packing,feature,bin,construction,construction feature,B77.5
-19299,2,9466,19299.2.9466,6,,,,,,,,,,,0.101666665,0.011666666,,0.018333334,,East,North,77,",336,",",3610,",construction/make-up/packing,feature,bin,construction,construction feature,B77.5
-19405,1,9328,19405.1.9328,12,,,,,,,,,,0.035833333,0.413333349,0.029166667,0.009166667,0.070000002,,East,North,77,",336,",",3605,",construction/make-up/packing,feature,bin,construction,construction feature,B77.6
-19503,2,9465,19503.2.9465,2,,,,,,,,,,0.034999999,0.074999998,0.02,,,,East,North,77,",336,",",3610,",construction/make-up/packing,feature,bin,construction,construction feature,B77.5
-19504,2,9569,19504.2.9569,2,,,,,,,,,,,0.535,0.005,,0.069999998,,East,North,77,",336,",",3610,",construction/make-up/packing,feature,bin,construction,construction feature,B77.5
-20910,2,10420,20910.2.10420,1.5,,,,,,,,,,0.006666667,0.146666667,,,,,East,North,77,",336,",",3613,",construction/make-up/packing,feature,bin,construction,construction feature,B77.4
-20921,3,10459,20921.3.10459,3,,,,,,,,,,0.006666667,1.029999984,,0.006666667,0.013333333,,East,North,77,",336,",",3613,",construction/make-up/packing,feature,bin,construction,construction feature,B77.4
-30174,1,11209,30174.1.11209,2,,,,,,0.039999999,,,,,0.315000007,0.02,0.005,0.015,,East,North,77,",336,",,construction/make-up/packing,feature,bin,construction,construction feature,B77.2
-19506,2,9464,19506.2.9464,6,,,,,,,,,,0.088333336,0.841666634,0.005,,0.083333331,,East,North,77,",336,",",3618,",construction/make-up/packing,feature,hearth,construction,construction feature,B77.5
-19508,2,9485,19508.2.9485,10,,,,,,,,,,0.05,0.270000002,0.002,,,,East,North,77,",336,",",3618,",construction/make-up/packing,feature,hearth,construction,construction feature,B77.5
-19000,2,9186,19000.2.9186,26,,,,,,,,,,0.018846154,0.058846155,0.003076923,,,,East,North,77,",336,",",6054,",construction/make-up/packing,feature,moulding,construction,construction feature,B77.8
-19001,2,9185,19001.2.9185,6,,,,,,,0.091666669,0,,0.066666666,0.243333338,0.03,,0.015000001,,East,North,77,",336,",",4040,",construction/make-up/packing,feature,moulding,construction,construction feature,B77.8
-19288,2,9408,19288.2.9408,2,,,,,,,,,,0.055,0.635000009,0.159999998,0.03,,,East,North,77,",336,",,construction/make-up/packing,feature,niche,construction,construction feature,B77.7
-19070,2,9278,19070.2.9278,21,,,,,,,,,,0.011428571,0.14333333,0.008095238,0.014761905,0.022857142,,East,North,77,",336,",",3603,",construction/make-up/packing,feature,oven,construction,construction feature,B77.7
-19074,2,9282,19074.2.9282,5,,,,,,,,,,0.002,0.016,0.024,,,,East,North,77,",336,",",3606,",construction/make-up/packing,feature,oven,construction,construction feature,B77.6
-19091,2,9318,19091.2.9318,6,,,0.625,,,,,,,0.005,0.011666666,0.005,,0.05,,East,North,77,",336,",",3609,",construction/make-up/packing,feature,oven,construction,construction feature,B77.4
-19420,2,9359,19420.2.9359,25,,,,,,,,,,,0.119599997,0.0032,,0.0048,,East,North,77,",336,",",3607,",construction/make-up/packing,feature,oven,construction,construction feature,B77.6
-19510,2,9455,19510.2.9455,1,,,,,,,,,,,0.199999997,0.01,,0.01,,East,North,77,",336,",",3621,",construction/make-up/packing,feature,oven,construction,construction feature,B77.4
-19513,2,9568,19513.2.9568,2,,,,,,,,,,0.005,0.024999999,,,,,East,North,77,",336,",",3621,",construction/make-up/packing,feature,oven,construction,construction feature,B77.4
-19527,2,9582,19527.2.9582,4,,,,,,,,,,0.0025,0.762500018,0.0025,0.005,0.064999998,0.0025,East,North,77,",336,",",3621,",construction/make-up/packing,feature,oven,construction,construction feature,B77.4
-19555,2,9607,19555.2.9607,8,,,,0.200000003,,,,,,0.00625,0.03,0.061249998,,0.00125,,East,North,77,",336,",",3621,",construction/make-up/packing,feature,oven,construction,construction feature,B77.4
-20424,2,9815,20424.2.9815,8,,,,,,,,,,0.025000001,0.415000005,0.015,0.00125,0.01,,East,North,77,",336,",",7108,",construction/make-up/packing,feature,oven,construction,construction feature,B77.6
-20432,2,9877,20432.2.9877,1,,,,,,,,,,0.049999999,0.02,,0.02,,,East,North,77,",336,",",7108,99999,",construction/make-up/packing,feature,oven,construction,construction feature,B77.6
-20448,3,10942,20448.3.10942,104,0.087115389,,0.001538462,0.002403846,,,,,,0.044903845,0.369615378,0.011826923,0.001153846,0.011538462,,East,North,77,",336,",",7108,",construction/make-up/packing,feature,oven,construction,construction feature,B77.6
-20454,2,9864,20454.2.9864,1,,,,,,,,,,0.039999999,0.049999999,,,,,East,North,77,",336,",",7108,",construction/make-up/packing,feature,oven,construction,construction feature,B77.6
-20477,2,9930,20477.2.9930,9,,,,,,,,,,0.008888889,0.188888886,0.01,,0.001111111,,East,North,77,",336,",",7108,",construction/make-up/packing,feature,oven,construction,construction feature,B77.6
-20478,2,10047,20478.2.10047,10,,,,,,,,,,0.175000004,0.133000001,0.041999999,,0.015,,East,North,77,",336,",",7108,",construction/make-up/packing,feature,oven,construction,construction feature,B77.6
-20496,2,10244,20496.2.10244,12,,,,,,,,,,0.011666666,0.180000002,0.001666667,0.004166667,0.003333333,0.005,East,North,77,",336,",",7108,",construction/make-up/packing,feature,oven,construction,construction feature,
-22061,2,11386,22061.2.11386,0.300000012,,,,,,,,,,0.033333331,0.26666665,,,,,East,North,77,",336,",",7308,",construction/make-up/packing,feature,oven,construction,construction feature,B77.3
-22069,1,11575,22069.1.11575,3,,,,,,,,,,0.006666667,0.203333333,,,0.116666665,,East,North,77,",336,",",7583,",construction/make-up/packing,feature,oven,construction,construction feature,B77.2
-30170,2,10987,30170.2.10987,5,,,,,,,,,,0.024,0.036000001,0.002,,0.031999999,,East,North,77,",336,",",7108,",construction/make-up/packing,feature,oven,construction,construction feature,B77.6
-30171,2,10973,30171.2.10973,31,,,,,,,,,,0.013225807,0.659354862,0.014193548,,0.025806451,,East,North,77,",336,",",7108,",construction/make-up/packing,feature,oven,construction,construction feature,B77.6
-21610,2,11518,21610.2.11518,5.5,,,,,,,1.536363602,0,,0.001818182,1.40909094,0.18181818,0.016363636,0.321818182,0.007272727,East,North,77,",336,",",6055,",construction/make-up/packing,feature,post,construction,construction feature,B77.1.A
-22053,2,11328,22053.2.11328,4.5,,,,,,,,,,0.017777777,0.253333336,0.033333333,0.015555555,0.026666667,0.048888889,East,North,77,",336,",,construction/make-up/packing,feature,post,construction,construction feature,B77.2
-19280,2,9422,19280.2.9422,6,,,0.048333332,,,,,,,,0.091666666,0.006666667,,0.245000009,,East,North,77,",336,",",6058,",construction/make-up/packing,feature,raised area (platform),construction,construction feature,B77.5
-19511,2,9544,19511.2.9544,24,,,,,,,,,,0.00875,0.589999993,0.022916667,,0.01375,,East,North,77,",336,",",3610,6058,",construction/make-up/packing,feature,raised area (platform),construction,construction feature,B77.4
-19563,2,10173,19563.2.10173,19,,,,,,,,,,0.021578948,0.584210537,0.104736845,0.00631579,0.01631579,0.005789474,East,North,77,",336,",",6051,",construction/make-up/packing,feature,raised area (platform),construction,construction feature,B77.4
-20482,2,9949,20482.2.9949,29,,,,,,,,,,0.003103448,0.55551724,0.025517241,0.000344828,0.03724138,,East,North,77,",336,",",6051,",construction/make-up/packing,feature,raised area (platform),construction,construction feature,B77.4
-20950,2,10515,20950.2.10515,2,,,,,,,,,,0.005,0.369999984,0.005,,0.029999999,,East,North,77,",336,",",3617,",construction/make-up/packing,feature,raised area (platform),construction,construction feature,B77.1.B
-22009,2,11172,22009.2.11172,59.5,1.06117646,,,,,0.808403392,,,,0.006218487,0.684369764,0.077647061,0.004033613,0.051092437,,East,North,77,",336,",",6052,",construction/make-up/packing,feature,raised area (platform),construction,construction feature,B77.1.B
-22018,2,11253,22018.2.11253,30,,,,,,0.477000014,,,,0.041666668,1.355333293,0.098666664,0.009333333,0.07766667,0.029,East,North,77,",336,",",3617,",construction/make-up/packing,feature,raised area (platform),construction,construction feature,B77.1.B
-22052,2,11402,22052.2.11402,18.5,,,,,,,,,,0.003783784,0.431351356,0.002162162,0.001621622,0.032972972,,East,North,77,",336,",",6051,",construction/make-up/packing,feature,raised area (platform),construction,construction feature,B77.2.B
-22079,2,11412,22079.2.11412,20.5,,,,,,,,,0.000487805,0.031219512,1.412195152,0.126341465,0.007804878,0.12341463,,East,North,77,",336,",",6051,",construction/make-up/packing,feature,raised area (platform),construction,construction feature,B77.1.B
-22085,2,11456,22085.2.11456,2,,,,,,,,,,0.029999999,0.995000023,,,,,East,North,77,",336,",",6051,",construction/make-up/packing,feature,raised area (platform),construction,construction feature,B77.2.B
-22091,2,11437,22091.2.11437,23,0.73000004,,,,,,,,0.002608696,0.093043476,1.808260912,0.080434785,0.002173913,0.036086955,,East,North,77,",336,",",6051,",construction/make-up/packing,feature,raised area (platform),construction,construction feature,B77.1.B
-30597,2,10994,30597.2.10994,18,,,0.188888894,,,0.076666666,,,,0.023888889,0.911111128,0.044444444,,0.007777778,,East,North,77,",336,",",3617,",construction/make-up/packing,feature,raised area (platform),construction,construction feature,B77.1.B
-19016,2,9200,19016.2.9200,6,,,,,,,,,,0.041666667,0.215000001,0.058333333,0.018333333,0.038333333,,East,North,77,",336,",",8149,",construction/make-up/packing,feature,,construction,construction feature,B77.8
-19018,3,9295,19018.3.9295,10,,,,,,,,,,,,0.016,,,,East,North,77,",336,",",8147,",construction/make-up/packing,feature,,construction,construction feature,B77.4
-22081,2,11414,22081.2.11414,20,,,,,,,,,,0.002,0.426000011,0.0055,0.004,0.001,,East,North,77,",337,",",7590,",construction/make-up/packing,feature,,construction,construction feature,B77.1.A
-22046,2,11316,22046.2.11316,5,,,,,,,,,,0.022000001,0.764000002,0.047999999,,0.029999999,,East,North,77,",336,",,construction/make-up/packing,floor (packing only),,construction,construction floor,B77.2
-22050,1,11309,22050.1.11309,7,,,,,,,,,,0.014285714,2.147142819,0.102857142,0.005714286,0.127142858,,East,North,77,",336,",,construction/make-up/packing,floor (packing only),,construction,construction floor,B77.2
-22058,2,11384,22058.2.11384,21,,,,,,,,,,0.018095238,0.441904749,,,0.037619047,0.02047619,East,North,77,",336,",,construction/make-up/packing,floor (packing only),,construction,construction floor,B77.1.B
-30166,2,10950,30166.2.10950,3,,,,,,0.086666663,,,,0.056666666,0.303333327,0.006666667,,,,East,North,77,",336,",,construction/make-up/packing,floor (packing only),,construction,construction floor,B77.3
-19006,2,9168,19006.2.9168,26,,,,,,,,,,0.008846154,0.233461533,0.007692308,0.000769231,0.000769231,,East,North,77,",336,",",3094,",construction/make-up/packing,wall/blocking,,construction,construction wall/blocking,B77.8
-19010,2,9338,19010.2.9338,2,,,,,,,,,,0.005,0.515000007,0.015,,,,East,North,77,",336,",",3095,",construction/make-up/packing,wall/blocking,,construction,construction wall/blocking,B77.7
-19037,3,9283,19037.3.9283,1,,,,,,,,,,0.01,0.07,,,,,East,North,77,",336,",",3094,6050,",construction/make-up/packing,wall/blocking,,construction,construction wall/blocking,B77.7
-19055,2,9300,19055.2.9300,1,,,,,,,,,,,0.239999995,0.200000003,,,,East,North,77,",336,",",3095,",construction/make-up/packing,wall/blocking,,construction,construction wall/blocking,B77.8
-19071,2,9284,19071.2.9284,1,,,,,,,,,,0.01,0.449999996,,,,,East,North,77,",336,",",3095,",construction/make-up/packing,wall/blocking,,construction,construction wall/blocking,B77.7
-19080,2,9301,19080.2.9301,14,,,,,,,,,,,,,,,,East,North,77,",336,",",6050,",construction/make-up/packing,wall/blocking,,construction,construction wall/blocking,B77.7
-19545,2,9655,19545.2.9655,8,,,,,,,,,,,0.005,0.005,,0.00125,,East,North,77,",336,",",3095,",construction/make-up/packing,wall/blocking,,construction,construction wall/blocking,B77.3
-19549,2,9612,19549.2.9612,6,,,,,,,,,,,0.018333333,,,,,East,North,77,",336,",",3094,",construction/make-up/packing,wall/blocking,,construction,construction wall/blocking,B77.5
-19556,2,9701,19556.2.9701,18,,,,,,,,,,0.002777778,0.272777771,0.036555556,0.000555556,0.021666666,,East,North,77,",336,",,construction/make-up/packing,wall/blocking,,construction,construction wall/blocking,B77.2
-19574,2,10175,19574.2.10175,2,,,,,,,,,,0.01,0.015,0.005,,,,East,North,77,",336,",",3095,",construction/make-up/packing,wall/blocking,,construction,construction wall/blocking,
-20611,2,10309,20611.2.10309,17,,,,,,,,,,0.01,0.091764706,0.023529412,0.001176471,0.002352941,,East,North,77,",336,",",3096,",construction/make-up/packing,wall/blocking,,construction,construction wall/blocking,
-20644,2,10326,20644.2.10326,0.100000001,,,,,,,,,,0.099999996,,0.099999996,0.099999996,,,East,North,77,",336,",",7301,",construction/make-up/packing,wall/blocking,,construction,construction wall/blocking,B77.8
-20982,1,10972,20982.1.10972,5,,,,,,,,,,0.02,0.177999998,0.008,,,,East,North,77,",336,",",3096,",construction/make-up/packing,wall/blocking,,construction,construction wall/blocking,B77.4
-21673,2,11895,21673.2.11895,14,,,,,,,,,,0.062142857,1.859285648,0.083571427,0.032857143,0.024999999,0.007142857,East,North,77,",337,",",7858,",construction/make-up/packing,wall/blocking,,construction,construction wall/blocking,
-21674,2,11896,21674.2.11896,5.5,,,,,,,,,,0.027272727,1.581818225,0.23636364,0.014545454,0.029090908,,East,North,77,",337,",",7858,",construction/make-up/packing,wall/blocking,,construction,construction wall/blocking,
-22090,2,11542,22090.2.11542,18.5,,,,,,0.024324324,,,,0.000540541,0.43675674,0.018918919,0.001621622,0.02,,East,North,77,",336,",",3095,",construction/make-up/packing,wall/blocking,,construction,construction wall/blocking,B77.2
-19050,3,9285,19050.3.9285,1,,,,,,,,,,,0.039999999,0.01,,,,East,North,77,",336,",",6051,",construction/make-up/packing,,,construction,construction,B77.7
-19029,2,9220,19029.2.9220,4,,,,,,,,,0.0025,0.142500002,4.929999902,0.049999999,0.0175,0.0075,,East,North,77,",337,",",3092,",fill,between walls,,fill,fill between walls,B77
-19032,2,9223,19032.2.9223,8,,,,,,,,,,0.029999999,0.636249984,0.0125,0.005,0.05125,,East,North,77,",337,",,fill,between walls,,fill,fill between walls,B77
-20618,2,10354,20618.2.10354,6.5,,,,,,,,,,0.066153848,0.472307708,0.004615385,,0.003076923,,East,North,77,",336,",",3096,",fill,between walls,,fill,fill between walls,
-21614,2,11541,21614.2.11541,27.5,,,,,,7.809090909,,,,0.005454546,2.839272694,0.045818181,0.002545455,0.159272726,,East,North,77,",336,",,fill,between walls,,fill,fill between walls,
-22048,2,11308,22048.2.11308,29,,,,,,,,,,0.000689655,11.99206939,0.010689655,,0.058965519,,East,North,77,",337,",,fill,between walls,,fill,fill between walls,
-16400,2,7930,16400.2.7930,27,,,,,,,,,,,1.626296364,0.014814814,0.002222222,0.046666665,,East,North,77,",336,",,fill,building,,fill,fill building,B77.9
-16402,2,7897,16402.2.7897,32,,,0.352499992,0.00625,,,,,,0.015,2.844062453,0.013125,,0.0425,0.039999999,East,North,77,",336,",",16402,",fill,building,,fill,fill building,B77.9
-16403,2,7943,16403.2.7943,27,,,,,,,,,,0.062962965,1.638888888,0.023333333,0.001851852,,,East,North,77,",336,",,fill,building,,fill,fill building,B77.9
-16405,2,7938,16405.2.7938,26,,,,,,,,,,0.004615385,0.559615389,0.016153846,0.009230769,0.037692307,,East,North,77,",336,",,fill,building,,fill,fill building,B77.9
-16406,2,7976,16406.2.7976,28,,,,,0.012857143,,,,,0.0025,1.025714291,0.013928572,,0.01,,East,North,77,",336,",,fill,building,,fill,fill building,B77.9
-16407,2,7902,16407.2.7902,24,,,,,0.225000004,,,,,0.006666667,1.104583323,0.063333333,0.005,0.017083333,,East,North,77,",337,",,fill,building,,fill,fill building,B77.A
-16408,2,7997,16408.2.7997,24,,,,,,,,,,0.003333333,0.708333311,0.012916667,,0.018333333,,East,North,77,",336,",,fill,building,,fill,fill building,B77.9
-16409,2,7999,16409.2.7999,28,,,,,,,,,,0.017142857,1.49499995,0.021428571,0.001428571,0.007142857,,East,North,77,",336,",,fill,building,,fill,fill building,B77.9
-16413,2,7996,16413.2.7996,24,,,,,,,,,,,2.623333371,0.029166666,0.003333333,0.0025,,East,North,77,",337,",,fill,building,,fill,fill building,B77.A
-16415,2,8042,16415.2.8042,26,,,,,,,,,,0.003461538,0.32961538,0.046153846,0.005384615,0.005384615,,East,North,77,",336,",,fill,building,,fill,fill building,B77.9
-16416,2,8025,16416.2.8025,24,,,,0.128749996,0.303333342,,,,,0.04,1.766250045,0.018333334,0.008333333,0.012083333,,East,North,77,",337,",,fill,building,,fill,fill building,B77.A
-16417,2,8074,16417.2.8074,28,,,,,,,,,0.002857143,0.01,0.74,0.044999999,0.005714286,0.008571428,,East,North,77,",336,",,fill,building,,fill,fill building,B77.9
-16418,2,8039,16418.2.8039,28,,,,,,,,,,0.001785714,0.810714281,0.032142857,0.003928571,0.0275,,East,North,77,",337,",,fill,building,,fill,fill building,B77.A
-16420,2,8058,16420.2.8058,26,,,,,,,,,,0.003076923,0.382692294,0.03,0.006153846,0.003076923,,East,North,77,",336,",,fill,building,,fill,fill building,B77.9
-16432,2,8156,16432.2.8156,24,,,,,,,,,,0.001666667,0.28416666,0.031666666,0.001666667,0.042083332,,East,North,77,",336,",,fill,building,,fill,fill building,B77.9
-16449,2,8222,16449.2.8222,16,,,,,,,,,,,0.239374994,0.015625,,0.00125,,East,North,77,",336,",,fill,building,,fill,fill building,B77.9
-16451,2,8334,16451.2.8334,29,,,,,,,,,,0.002068965,0.164482758,0.022068966,,0.000689655,,East,North,77,",336,",,fill,building,,fill,fill building,B77.9
-16452,2,8321,16452.2.8321,22,,,,,,,,,,0.000454545,4.307727384,0.021363636,0.001818182,0.04409091,,East,North,77,",337,",,fill,building,,fill,fill building,B77.A
-16453,2,8269,16453.2.8269,26,,,0.057307693,,,,,,,0.001923077,0.90461537,0.005,0.005,0.014615385,,East,North,77,",337,",,fill,building,,fill,fill building,B77.A
-16454,2,8293,16454.2.8293,32,,,,,,,,,,0.028125,1.059374995,0.0696875,,0.029687501,,East,North,77,",336,",,fill,building,,fill,fill building,B77.9
-16457,2,8272,16457.2.8272,24,,0.107499997,,,,,,,,0.190833334,5.26208322,0.048750001,0.0025,0.008333333,,East,North,77,",337,",,fill,building,,fill,fill building,B77.A
-16459,2,8277,16459.2.8277,28,0.191071425,,,,,,,,,0.005714286,1.292142816,0.060357142,0.002142857,0.006428571,,East,North,77,",337,",,fill,building,,fill,fill building,B77.A
-16461,2,8344,16461.2.8344,24,,,,,,,,,,0.12958333,0.327499996,0.084999998,0.00875,0.002916667,,East,North,77,",336,",,fill,building,,fill,fill building,B77.9
-16466,3,8345,16466.3.8345,28,,,,,,,,,,50.71428571,0.884285728,0.005,0.004642857,0.001785714,,East,North,77,",336,",,fill,building,,fill,fill building,B77.9
-16467,2,8356,16467.2.8356,24,,,,,,,,,,0.055833334,0.605416677,0.049166666,,0.012916666,,East,North,77,",336,",,fill,building,,fill,fill building,B77.9
-16469,2,8348,16469.2.8348,24,,,,,,,,,,0.073333333,0.632499993,0.014166667,,0.003333333,,East,North,77,",337,",,fill,building,,fill,fill building,B77.B
-16476,2,8385,16476.2.8385,28,,,,,,,,,,0.011428571,0.455714298,0.005,,0.020357143,,East,North,77,",336,",,fill,building,,fill,fill building,B77.9
-16477,2,8386,16477.2.8386,24,,,,,,,,,,0.032083333,0.852916659,0.028333333,,0.0125,,East,North,77,",336,",,fill,building,,fill,fill building,B77.9
-16478,5,8437,16478.5.8437,56,,0.043214287,0.631250015,,,,,,,0.687499987,1.294107129,0.036071428,0.000357143,0.070178571,,East,North,77,",337,",,fill,building,,fill,fill building,B77.B
-16479,2,8389,16479.2.8389,24,,,,,,,,,,0.073333334,0.556249982,0.136666669,,0.064166666,,East,North,77,",336,",,fill,building,,fill,fill building,B77.9
-16481,4,8468,16481.4.8468,146,,,,,0.025547946,,,,,0.060616439,1.524520533,0.039726028,0.011506849,0.015821918,,East,North,77,",336,",,fill,building,,fill,fill building,B77.9
+16400,2,7930,16400.2.7930,27,,,,,,1,,,,,1.626296364,0.014814814,0.002222222,0.046666665,,East,North,77,",336,",,fill,building,,fill,fill building,B77.9
+16401,2,7899,16401.2.7899,26,,,,,,1,,,,0.002692308,1.105769202,0.051538462,0.006153846,0.023076923,,East,North,77,",336,337,",,fill,building,,fill,fill building,B77.A
+16402,2,7897,16402.2.7897,32,,,0.352499992,0.00625,,1,,,,0.015,2.844062453,0.013125,,0.0425,0.039999999,East,North,77,",336,",",16402,",fill,building,,fill,fill building,B77.9
+16403,2,7943,16403.2.7943,27,,,,,,1,,,,0.062962965,1.638888888,0.023333333,0.001851852,,,East,North,77,",336,",,fill,building,,fill,fill building,B77.9
+16405,2,7938,16405.2.7938,26,,,,,,1,,,,0.004615385,0.559615389,0.016153846,0.009230769,0.037692307,,East,North,77,",336,",,fill,building,,fill,fill building,B77.9
+16406,2,7976,16406.2.7976,28,,,,,0.012857143,1,,,,0.0025,1.025714291,0.013928572,,0.01,,East,North,77,",336,",,fill,building,,fill,fill building,B77.9
+16407,2,7902,16407.2.7902,24,,,,,0.225000004,1,,,,0.006666667,1.104583323,0.063333333,0.005,0.017083333,,East,North,77,",337,",,fill,building,,fill,fill building,B77.A
+16408,2,7997,16408.2.7997,24,,,,,,1,,,,0.003333333,0.708333311,0.012916667,,0.018333333,,East,North,77,",336,",,fill,building,,fill,fill building,B77.9
+16409,2,7999,16409.2.7999,28,,,,,,1,,,,0.017142857,1.49499995,0.021428571,0.001428571,0.007142857,,East,North,77,",336,",,fill,building,,fill,fill building,B77.9
+16413,2,7996,16413.2.7996,24,,,,,,1,,,,,2.623333371,0.029166666,0.003333333,0.0025,,East,North,77,",337,",,fill,building,,fill,fill building,B77.A
+16415,2,8042,16415.2.8042,26,,,,,,1,,,,0.003461538,0.32961538,0.046153846,0.005384615,0.005384615,,East,North,77,",336,",,fill,building,,fill,fill building,B77.9
+16416,2,8025,16416.2.8025,24,,,,0.128749996,0.303333342,1,,,,0.04,1.766250045,0.018333334,0.008333333,0.012083333,,East,North,77,",337,",,fill,building,,fill,fill building,B77.A
+16417,2,8074,16417.2.8074,28,,,,,,1,,,0.002857143,0.01,0.74,0.044999999,0.005714286,0.008571428,,East,North,77,",336,",,fill,building,,fill,fill building,B77.9
+16418,2,8039,16418.2.8039,28,,,,,,1,,,,0.001785714,0.810714281,0.032142857,0.003928571,0.0275,,East,North,77,",337,",,fill,building,,fill,fill building,B77.A
+16419,2,8075,16419.2.8075,18,,,,,,,,,,,0.074555557,,,,,East,North,77,",336,337,",,construction/make-up/packing,building,,construction,construction building,B77.A
+16420,2,8058,16420.2.8058,26,,,,,,1,,,,0.003076923,0.382692294,0.03,0.006153846,0.003076923,,East,North,77,",336,",,fill,building,,fill,fill building,B77.9
+16423,2,8060,16423.2.8060,14,,,,,,1,,,,0.012857143,0.506428566,0.048571429,0.001428571,0.002857143,,East,North,77,",336,",,construction/make-up/packing,building,,construction,construction building,B77.9
+16431,2,8165,16431.2.8165,22,,,,,,1,,,,0.031818182,0.366818186,0.139090912,0.005,0.005,,East,North,77,",336,",,construction/make-up/packing,building,,construction,construction building,B77.9
+16432,2,8156,16432.2.8156,24,,,,,,1,,,,0.001666667,0.28416666,0.031666666,0.001666667,0.042083332,,East,North,77,",336,",,fill,building,,fill,fill building,B77.9
+16449,2,8222,16449.2.8222,16,,,,,,1,,,,,0.239374994,0.015625,,0.00125,,East,North,77,",336,",,fill,building,,fill,fill building,B77.9
+16451,2,8334,16451.2.8334,29,,,,,,1,,,,0.002068965,0.164482758,0.022068966,,0.000689655,,East,North,77,",336,",,fill,building,,fill,fill building,B77.9
+16452,2,8321,16452.2.8321,22,,,,,,1,,,,0.000454545,4.307727384,0.021363636,0.001818182,0.04409091,,East,North,77,",337,",,fill,building,,fill,fill building,B77.A
+16453,2,8269,16453.2.8269,26,,,0.057307693,,,1,,,,0.001923077,0.90461537,0.005,0.005,0.014615385,,East,North,77,",337,",,fill,building,,fill,fill building,B77.A
+16454,2,8293,16454.2.8293,32,,,,,,1,,,,0.028125,1.059374995,0.0696875,,0.029687501,,East,North,77,",336,",,fill,building,,fill,fill building,B77.9
+16457,2,8272,16457.2.8272,24,,0.107499997,,,,1,,,,0.190833334,5.26208322,0.048750001,0.0025,0.008333333,,East,North,77,",337,",,fill,building,,fill,fill building,B77.A
+16459,2,8277,16459.2.8277,28,0.191071425,,,,,1,,,,0.005714286,1.292142816,0.060357142,0.002142857,0.006428571,,East,North,77,",337,",,fill,building,,fill,fill building,B77.A
+16461,2,8344,16461.2.8344,24,,,,,,1,,,,0.12958333,0.327499996,0.084999998,0.00875,0.002916667,,East,North,77,",336,",,fill,building,,fill,fill building,B77.9
+16466,3,8345,16466.3.8345,28,,,,,,1,,,,50.71428571,0.884285728,0.005,0.004642857,0.001785714,,East,North,77,",336,",,fill,building,,fill,fill building,B77.9
+16467,2,8356,16467.2.8356,24,,,,,,1,,,,0.055833334,0.605416677,0.049166666,,0.012916666,,East,North,77,",336,",,fill,building,,fill,fill building,B77.9
+16469,2,8348,16469.2.8348,24,,,,,,1,,,,0.073333333,0.632499993,0.014166667,,0.003333333,,East,North,77,",337,",,fill,building,,fill,fill building,B77.B
+16472,2,8370,16472.2.8370,28,,,,,0.085000004,1,,,,0.003571428,2.579285714,0.046071429,,0.002142857,,East,North,77,",337,",",3092,",fill,feature,bin,fill,fill bin,B77.B
+16476,2,8385,16476.2.8385,28,,,,,,1,,,,0.011428571,0.455714298,0.005,,0.020357143,,East,North,77,",336,",,fill,building,,fill,fill building,B77.9
+16477,2,8386,16477.2.8386,24,,,,,,1,,,,0.032083333,0.852916659,0.028333333,,0.0125,,East,North,77,",336,",,fill,building,,fill,fill building,B77.9
+16478,5,8437,16478.5.8437,56,,0.043214287,0.631250015,,,1,,,,0.687499987,1.294107129,0.036071428,0.000357143,0.070178571,,East,North,77,",337,",,fill,building,,fill,fill building,B77.B
+16479,2,8389,16479.2.8389,24,,,,,,1,,,,0.073333334,0.556249982,0.136666669,,0.064166666,,East,North,77,",336,",,fill,building,,fill,fill building,B77.9
+16480,5,8416,16480.5.8416,29.5,,,,0.121694912,,1,,,,1.879322036,2.090169558,0.041016949,0.000338983,0.011525423,,East,North,77,",337,",,cluster,floors,,cluster,cluster,B77.B
+16481,4,8468,16481.4.8468,146,,,,,0.025547946,1,,,,0.060616439,1.524520533,0.039726028,0.011506849,0.015821918,,East,North,77,",336,",,fill,building,,fill,fill building,B77.9
 16482,2,8432,16482.2.8432,20,,,,,0.188499999,,,,,0.0075,1.046000001,0.009,0.0015,0.016500001,,East,North,77,",336,",",6052,",fill,building,,fill,fill building,B77.9
-16484,2,8456,16484.2.8456,24,,,,,,,,,,0.519166678,0.611666667,0.074166666,,0.110416669,,East,North,77,",336,",",6053,",fill,building,,fill,fill building,B77.9
-16487,2,8448,16487.2.8448,1,,,,,,,,,,0.849999987,3.200000003,0.07,0.01,0.02,,East,North,77,",336,",",6067,",fill,building,,fill,fill building,B77.9
-16494,2,8464,16494.2.8464,24,,,,,,,,,,0.137499997,0.274999999,0.038333332,,0.024583333,,East,North,77,",336,",",6062,",fill,building,,fill,fill building,B77.9
-16495,2,8523,16495.2.8523,22,,,,,,,,,,0.11136364,0.485000006,0.105454546,0.001818182,0.034090909,,East,North,77,",336,",",6051,",fill,building,,fill,fill building,B77.9
-16498,3,8582,16498.3.8582,91,,,,0.017472528,,,,,0.007032967,11.8372526,0.889890123,0.078021978,0.000879121,0.021868132,,East,North,77,",336,",",6053,",fill,building,,fill,fill building,B77.9
-17511,2,8567,17511.2.8567,26,,,,,,,,,0.003846154,0.871538446,1.38115384,0.013461538,,0.025384616,,East,North,77,",336,",",6058,",fill,building,,fill,fill building,B77.9
-17513,2,8612,17513.2.8612,20,,,,,,,0.011,0,,1.793000031,0.704999995,0.085000003,0.004,0.013,,East,North,77,",336,",",6054,",fill,building,,fill,fill building,B77.9
-17519,2,8614,17519.2.8614,6,,,,,,,,,,5.605000128,1.178333342,0.048333334,0.005,,,East,North,77,",336,",",6054,",fill,building,,fill,fill building,B77.9
-17520,2,8590,17520.2.8590,26,,,,,,,,,,0.006538461,0.085000001,0.083846154,,,,East,North,77,",336,",,fill,building,,fill,fill building,B77.9
-17523,2,8731,17523.2.8731,14,,,,,,,,,,0.000714286,0.258571428,,0.165714289,0.081428573,,East,North,77,",336,",,fill,building,,fill,fill building,B77.9
-17524,2,8634,17524.2.8634,24,0.149999996,,,,,,,,,0.115833335,0.971249995,0.039166666,0.002916667,0.020416666,,East,North,77,",336,",",6050,",fill,building,,fill,fill building,B77.9
-17525,2,8641,17525.2.8641,32,,,,1.931249976,,,,,,0.62875,1.718750002,0.00875,,0.0053125,,East,North,77,",336,",",6050,",fill,building,,fill,fill building,B77.9
-19002,2,9170,19002.2.9170,6,,,,,,,,,,,0.091666668,,,,,East,North,77,",337,",,fill,building,,fill,fill building,B77
-19057,2,9253,19057.2.9253,20,0.328500009,,,,,,,,,0.0245,0.598500011,,0.0015,0.0115,,East,North,77,",337,",,fill,building,,fill,fill building,B77
-19403,2,9317,19403.2.9317,1,,,,,,,,,,0.089999998,0.790000025,0.039999999,,,,East,North,77,",336,",",8140,",fill,building,,fill,fill building,B77.5
-21647,2,11790,21647.2.11790,32,,,,,,0.122500002,,,,0.015625,1.515937491,0.077499998,0.0028125,0.031875,,East,North,77,",336,",,fill,building,,fill,fill building,B77.1.A
-30152,2,10945,30152.2.10945,20,,,,,,,,,,0.0305,1.126500029,0.227499999,0.0045,0.132999994,,East,North,77,",336,",,fill,building,,fill,fill building,B77.4
-30155,2,10939,30155.2.10939,10,,,,,,,,,,0.036,0.260999995,0.01,0.003,0.004,,East,North,77,",336,",,fill,building,,fill,fill building,B77.4
-22073,2,11410,22073.2.11410,25,,,,,,,,,,0.078000003,1.836000037,0.1076,0.015999999,0.052799998,,East,North,77,",337,",",7590,",fill,cut,ditch,fill,fill foundation,B77.1.A
-22075,2,11405,22075.2.11405,16,,,,,,,,,,0.035,1.301874995,0.073124999,0.005,0.055624998,,East,North,77,",337,",",7591,",fill,cut,foundation cut,fill,fill foundation,B77.1.A
-22082,2,11415,22082.2.11415,13.5,,,,,,0.342962971,,,,0.016296296,0.380740757,0.073333333,0.011111111,0.018518518,,East,North,77,",337,",",7598,",fill,cut,foundation cut,fill,fill foundation,B77.1.A
-22099,2,11440,22099.2.11440,10,,,,,,,,,,0.002,0.778999993,0.046000001,,0.002,,East,North,77,",336,",",7591,",fill,cut,foundation cut,fill,fill foundation,B77.1.A
-22036,2,11284,22036.2.11284,4,,,,,,,,,,,0.187500007,0.0025,0.005,0.0275,,East,North,77,",336,",",7564,",fill,cut,pit,fill,fill pit,B77.2
-22095,2,11581,22095.2.11581,1,,,,,,,,,,,,,,0.540000007,,East,North,77,",336,",",7601,",fill,cut,pit,fill,fill pit,B77.1.A
-30164,2,10949,30164.2.10949,2,,,,,,,,,,0.420000002,0.140000001,0.01,,,,East,North,77,",336,",",7307,",fill,cut,pit,fill,fill pit,B77.6
-30590,2,10791,30590.2.10791,28,,,,,,,,,,0.053214286,0.924285728,0.039285714,0.004285714,0.012857143,,East,North,77,",336,",,fill,cut,pit,fill,fill pit,B77.1.B
-19064,2,9272,19064.2.9272,1,,,,,,,,,0.029999999,1.35999997,9.240000257,,,0.039999999,,East,North,77,",336,",",8137,",fill,cut,posthole,fill,fill posthole/stakehole,B77.6
-19269,2,9423,19269.2.9423,6,,,,,,,,,,0.001666667,0.034999999,0.043333334,,0.016666667,,East,North,77,",336,",",6053,",fill,cut,posthole,fill,fill posthole/stakehole,B77.1.A
-19296,2,9433,19296.2.9433,8,,,,,,,,,,0.0025,0.736250006,0.0175,,0.0075,,East,North,77,",336,",,fill,cut,posthole,fill,fill posthole/stakehole,B77.1.A
-19407,2,9314,19407.2.9314,6,,,,,,,,,0.001666667,0.24,0.324999996,0.001666667,,0.026666667,,East,North,77,",336,",,fill,cut,posthole,fill,fill posthole/stakehole,B77.2
-21621,1,11668,21621.1.11668,15,,,,,,0.693333308,,,0.004,0.015333333,1.125333384,0.192,0.021333333,0.092000003,,East,North,77,",336,",",6056,",fill,cut,posthole,fill,fill posthole/stakehole,B77.1.A
-22077,2,11396,22077.2.11396,5,,,,,,,,,,0.002,0.149999996,0.04,,0.016,,East,North,77,",337,",",7592,",fill,cut,posthole,fill,fill posthole/stakehole,B77.1.A
-19281,2,9385,19281.2.9385,24,,,,,,,,,,0.015833333,0.57416667,0.060833332,0.0125,0.018750001,0.019166667,East,North,77,",336,",",3612,",fill,cut,scoop,fill,fill scoop,B77.7
-17508,2,8543,17508.2.8543,6,,,,0.045000002,,,,,,0.023333333,0.570000002,,,,,East,North,77,",336,",",6064,",fill,feature,basin,fill,fill basin,B77.9
-19062,1,9273,19062.1.9273,12,,,,,,,,,,0.056666667,0.001666667,0.003333333,0.000833333,0.026666667,,East,North,77,",336,",,fill,feature,basin,fill,fill basin,B77.7
-19273,2,9432,19273.2.9432,8,,,,,,,,,,0.015,0.730000023,0.0075,0.00125,0.152499996,,East,North,77,",336,",",8136,",fill,feature,basin,fill,fill basin,B77.5
-16472,2,8370,16472.2.8370,28,,,,,0.085000004,,,,,0.003571428,2.579285714,0.046071429,,0.002142857,,East,North,77,",337,",",3092,",fill,feature,bin,fill,fill bin,B77.B
-16488,2,8447,16488.2.8447,156,,,0.365384615,0.064743592,0.003974359,,,,0.000769231,0.915576896,2.974230747,0.046794872,0.001025641,0.049807692,,East,North,77,",337,",",3092,",fill,feature,bin,fill,fill bin,B77.B
-16496,2,8473,16496.2.8473,26,,,0.523846149,,,,,,,0.469230766,4.163076921,0.012307692,0.006153846,0.025384615,,East,North,77,",337,",",3092,",fill,feature,bin,fill,fill bin,B77.B
-16497,3,8493,16497.3.8493,28,,,,0.042857145,,,0.070357144,0,,0.307857147,0.861071455,0.021785714,,0.067142858,,East,North,77,",337,",",3092,",fill,feature,bin,fill,fill bin,B77.B
-17502,2,8521,17502.2.8521,22,,,,2.385909167,,,,,,0.102727272,0.876363641,0.151818186,,0.094999998,,East,North,77,",337,",",3092,",fill,feature,bin,fill,fill bin,B77.B
-17503,2,8524,17503.2.8524,18,,,,,,,,,,0.685000004,0.563333334,0.067777776,,0.108333336,,East,North,77,",337,",",3092,",fill,feature,bin,fill,fill bin,B77.B
-19270,2,9434,19270.2.9434,2,,,,,,,,,,,0.374999999,0.015,,,,East,North,77,",336,",",3613,",fill,feature,bin,fill,fill bin,B77.4
+16484,2,8456,16484.2.8456,24,,,,,,1,,,,0.519166678,0.611666667,0.074166666,,0.110416669,,East,North,77,",336,",",6053,",fill,building,,fill,fill building,B77.9
 16485,1,8445,16485.1.8445,3,,,,,,,,,,2.98999991,1.163333333,,,0.006666667,,East,North,77,",337,",",3090,",fill,feature,hearth,fill,fill hearth,B77.B
-19019,2,9199,19019.2.9199,2,,,,,,,,,,0.069999999,0.069999999,,0.01,,,East,North,77,",336,",",6064,",fill,feature,hearth,fill,fill hearth,B77.8
-19047,2,9224,19047.2.9224,10,,,,,,,,,0.001,0.086999997,0.032000001,0.026,0.01,0.025,,East,North,77,",336,",",3602,",fill,feature,hearth,fill,fill hearth,B77.7
-19558,2,9616,19558.2.9616,4,,,,,,,,,,0.01,0.1425,0.0025,0.0025,0.035,,East,North,77,",336,",",8132,",fill,feature,hearth,fill,fill hearth,B77.3
-19561,2,9700,19561.2.9700,6,,,,,,,,,,0.011666666,0.096666665,0.013333333,,0.028333332,,East,North,77,",336,",",8128,",fill,feature,hearth,fill,fill hearth,B77.2
+16487,2,8448,16487.2.8448,1,,,,,,,,,,0.849999987,3.200000003,0.07,0.01,0.02,,East,North,77,",336,",",6067,",fill,building,,fill,fill building,B77.9
+16488,2,8447,16488.2.8447,156,,,0.365384615,0.064743592,0.003974359,1,,,0.000769231,0.915576896,2.974230747,0.046794872,0.001025641,0.049807692,,East,North,77,",337,",",3092,",fill,feature,bin,fill,fill bin,B77.B
+16494,2,8464,16494.2.8464,24,,,,,,1,,,,0.137499997,0.274999999,0.038333332,,0.024583333,,East,North,77,",336,",",6062,",fill,building,,fill,fill building,B77.9
+16495,2,8523,16495.2.8523,22,,,,,,1,,,,0.11136364,0.485000006,0.105454546,0.001818182,0.034090909,,East,North,77,",336,",",6051,",fill,building,,fill,fill building,B77.9
+16496,2,8473,16496.2.8473,26,,,0.523846149,,,1,,,,0.469230766,4.163076921,0.012307692,0.006153846,0.025384615,,East,North,77,",337,",",3092,",fill,feature,bin,fill,fill bin,B77.B
+16497,3,8493,16497.3.8493,28,,,,0.042857145,,1,0.070357144,0,,0.307857147,0.861071455,0.021785714,,0.067142858,,East,North,77,",337,",",3092,",fill,feature,bin,fill,fill bin,B77.B
+16498,3,8582,16498.3.8582,91,,,,0.017472528,,1,,,0.007032967,11.8372526,0.889890123,0.078021978,0.000879121,0.021868132,,East,North,77,",336,",",6053,",fill,building,,fill,fill building,B77.9
+17502,2,8521,17502.2.8521,22,,,,2.385909167,,1,,,,0.102727272,0.876363641,0.151818186,,0.094999998,,East,North,77,",337,",",3092,",fill,feature,bin,fill,fill bin,B77.B
+17503,2,8524,17503.2.8524,18,,,,,,1,,,,0.685000004,0.563333334,0.067777776,,0.108333336,,East,North,77,",337,",",3092,",fill,feature,bin,fill,fill bin,B77.B
+17508,2,8543,17508.2.8543,6,,,,0.045000002,,1,,,,0.023333333,0.570000002,,,,,East,North,77,",336,",",6064,",fill,feature,basin,fill,fill basin,B77.9
+17510,1,8568,17510.1.8568,20,,,,,,,,,,0.031,0.699999996,0.01,,,,East,North,77,",336,",",6060,",cluster,floors,,cluster,cluster,B77.9
+17511,2,8567,17511.2.8567,26,,,,,,1,,,0.003846154,0.871538446,1.38115384,0.013461538,,0.025384616,,East,North,77,",336,",",6058,",fill,building,,fill,fill building,B77.9
+17513,2,8612,17513.2.8612,20,,,,,,,0.011,0,,1.793000031,0.704999995,0.085000003,0.004,0.013,,East,North,77,",336,",",6054,",fill,building,,fill,fill building,B77.9
+17514,2,9188,17514.2.9188,28,,,,,,1,,,,0.018571428,0.312499995,0.040357142,0.004642857,0.021428571,,East,North,77,",337,",,floors (use),building,general,floors,floors,B77.C
+17515,2,9175,17515.2.9175,6,,,,,,1,,,,0.044999999,2.756666737,0.163333329,0.013333333,0.025,,East,North,77,",337,",",3092,",floors (use),feature,bin,floors,floors bin,B77.C
+17516,2,9190,17516.2.9190,12,,,,,,1,,,,0.01,1.272499992,0.02,0.009166667,0.004166667,,East,North,77,",337,",",3092,",floors (use),feature,bin,floors,floors bin,B77.C
+17519,2,8614,17519.2.8614,6,,,,,,,,,,5.605000128,1.178333342,0.048333334,0.005,,,East,North,77,",336,",",6054,",fill,building,,fill,fill building,B77.9
+17520,2,8590,17520.2.8590,26,,,,,,1,,,,0.006538461,0.085000001,0.083846154,,,,East,North,77,",336,",,fill,building,,fill,fill building,B77.9
+17523,2,8731,17523.2.8731,14,,,,,,1,,,,0.000714286,0.258571428,,0.165714289,0.081428573,,East,North,77,",336,",,fill,building,,fill,fill building,B77.9
+17524,2,8634,17524.2.8634,24,0.149999996,,,,,1,,,,0.115833335,0.971249995,0.039166666,0.002916667,0.020416666,,East,North,77,",336,",",6050,",fill,building,,fill,fill building,B77.9
+17525,2,8641,17525.2.8641,32,,,,1.931249976,,1,,,,0.62875,1.718750002,0.00875,,0.0053125,,East,North,77,",336,",",6050,",fill,building,,fill,fill building,B77.9
 17526,2,8704,17526.2.8704,1,,,,,,,,,,0.02,0.690000016,0.01,,0.01,,East,North,77,",336,",",6066,",fill,feature,niche,fill,fill niche,B77.9
-19084,2,9305,19084.2.9305,6,,,,,,,,,,0.079999998,0.12,0.030000001,,0.013333333,,East,North,77,",336,",",3607,",fill,feature,oven,fill,fill oven,B77.6
-19551,2,9629,19551.2.9629,8,,,,,,,,,,0.058750001,0.30125,,,0.00375,,East,North,77,",336,",",6058,",fill,feature,oven,fill,fill oven,B77.6
-17529,2,8732,17529.2.8732,14,,,,,,,,,,0.260000003,2.067857191,0.02357143,0.002857143,0.040714285,,East,North,77,",336,",",6057,",fill,feature,,fill,fill,B77.9
-17514,2,9188,17514.2.9188,28,,,,,,,,,,0.018571428,0.312499995,0.040357142,0.004642857,0.021428571,,East,North,77,",337,",,floors (use),building,general,floors,floors,B77.C
-17572,2,9226,17572.2.9226,4,,,,,,,,,,0.077499999,0.089999998,,,0.025000001,,East,North,77,",336,",,floors (use),building,general,floors,floors,B77.8
-19004,2,9157,19004.2.9157,10,,,,,,,,,,0.144,1.330999981,0.054000001,0.002,0.079999997,,East,North,77,",337,",",3091,",floors (use),building,general,floors,floors,B77
-19005,2,9195,19005.2.9195,4,,,,,,,,,,0.13,0.0225,0.092500003,,,,East,North,77,",337,",",3091,",floors (use),building,general,floors,floors,B77
-19030,2,9218,19030.2.9218,20,,,,,,,,,,0.046,0.400000011,0.004,,0.031000001,,East,North,77,",337,",,floors (use),building,general,floors,floors,B77
+17527,2,8654,17527.2.8654,16,,,0.30250001,,,1,,,,0.045000001,0.628750001,0.013125,0.00875,0.043124998,,East,North,77,",336,",",6061,",cluster,building,,cluster,cluster,B77.9
+17529,2,8732,17529.2.8732,14,,,,,,1,,,,0.260000003,2.067857191,0.02357143,0.002857143,0.040714285,,East,North,77,",336,",",6057,",fill,feature,,fill,fill,B77.9
+17556,2,9214,17556.2.9214,2,,,,,,,,,,0.039999999,0.195000004,0.04,0.029999999,0.03,,East,North,77,",336,",",6058,",floors (use),building,raised area (platform),floors,platform,B77.8
+17557,2,9193,17557.2.9193,6,,,,,,1,,,,0.001666667,0.283333327,0.003333333,0.001666667,0.003333333,,East,North,77,",336,",",6064,",floors (use),feature,hearth,floors,floors hearth,B77.8
+17561,2,9162,17561.2.9162,20,,,,,,1,,,,0.04,0.324499991,0.041000001,,0.01,,East,North,77,",336,",",6051,",floors (use),building,raised area (platform),floors,platform,B77.8
+17571,2,9205,17571.2.9205,24,,,,,,1,,,,0.010416667,0.069166667,0.01,0.001666667,,,East,North,77,",336,",",6052,",floors (use),building,raised area (platform),floors,platform,B77.8
+17572,2,9226,17572.2.9226,4,,,,,,1,,,,0.077499999,0.089999998,,,0.025000001,,East,North,77,",336,",,floors (use),building,general,floors,floors,B77.8
+17573,2,9267,17573.2.9267,16,,,,,,1,,,,0.01,0.166249998,0.0025,,0.024374999,,East,North,77,",336,",",6053,",floors (use),building,raised area (platform),floors,platform,B77.7
+17580,2,9201,17580.2.9201,5,,,,,,1,,,,,0.080000003,0.012,0.01,0.01,,East,North,77,",337,",",3091,",floors (use),feature,basin,floors,floors basin,B77.C
+19000,2,9186,19000.2.9186,26,,,,,,1,,,,0.018846154,0.058846155,0.003076923,,,,East,North,77,",336,",",6054,",construction/make-up/packing,feature,moulding,construction,construction feature,B77.8
+19001,2,9185,19001.2.9185,6,,,,,,,0.091666669,0,,0.066666666,0.243333338,0.03,,0.015000001,,East,North,77,",336,",",4040,",construction/make-up/packing,feature,moulding,construction,construction feature,B77.8
+19002,2,9170,19002.2.9170,6,,,,,,,,,,,0.091666668,,,,,East,North,77,",337,",,fill,building,,fill,fill building,B77
+19004,2,9157,19004.2.9157,10,,,,,,1,,,,0.144,1.330999981,0.054000001,0.002,0.079999997,,East,North,77,",337,",",3091,",floors (use),building,general,floors,floors,B77
+19005,2,9195,19005.2.9195,4,,,,,,1,,,,0.13,0.0225,0.092500003,,,,East,North,77,",337,",",3091,",floors (use),building,general,floors,floors,B77
+19006,2,9168,19006.2.9168,26,,,,,,1,,,,0.008846154,0.233461533,0.007692308,0.000769231,0.000769231,,East,North,77,",336,",",3094,",construction/make-up/packing,wall/blocking,,construction,construction wall/blocking,B77.8
+19007,2,9156,19007.2.9156,22,,,,,,,,,,0.017272727,0.10954545,0.052272726,,,0.015000001,East,North,77,",336,",",6052,",floors (use),feature,pedestal/podium/plinth,floors,floors pedestal/podium/plynth,B77.7
+19008,2,9196,19008.2.9196,20,,,,,,1,,,,0.071999999,0.893499958,0.123999999,0.002,0.057999999,,East,North,77,",336,",",6052,",fill,cut,burial,burial fill,burial fill,B77.6
+19010,2,9338,19010.2.9338,2,,,,,,,,,,0.005,0.515000007,0.015,,,,East,North,77,",336,",",3095,",construction/make-up/packing,wall/blocking,,construction,construction wall/blocking,B77.7
+19011,2,9210,19011.2.9210,20,0.087,,,,,1,,,,0.0175,0.807000013,0.062999999,0.007,0.004,,East,North,77,",337,",",3091,",construction/make-up/packing,feature,bin,construction,construction feature,B77
+19012,2,9181,19012.2.9181,10,,,,,,1,,,,0.004,0.561999986,0.087000001,0.019,0.014,,East,North,77,",337,",,floors (use),feature,bin,floors,floors bin,B77
+19013,2,9182,19013.2.9182,12,,,,,,1,,,,0.008333333,1.324999998,0.080833333,0.014166666,0.025,,East,North,77,",337,",,floors (use),feature,bin,floors,floors bin,B77
+19014,2,9191,19014.2.9191,16,,,,,,1,,,0.003125,0.011875,1.119375014,0.07625,0.009375,0.020624999,,East,North,77,",337,",,floors (use),feature,bin,floors,floors bin,B77
+19016,2,9200,19016.2.9200,6,,,,,,1,,,,0.041666667,0.215000001,0.058333333,0.018333333,0.038333333,,East,North,77,",336,",",8149,",construction/make-up/packing,feature,,construction,construction feature,B77.8
+19017,2,9197,19017.2.9197,4,,,0.0625,,,,,,,,0.025,0.01,,0.039999999,,East,North,77,",336,",",6060,",floors (use),building,raised area (platform),floors,platform,B77.8
+19018,3,9295,19018.3.9295,10,,,,,,,,,,,,0.016,,,,East,North,77,",336,",",8147,",construction/make-up/packing,feature,,construction,construction feature,B77.4
+19019,2,9199,19019.2.9199,2,,,,,,,,,,0.069999999,0.069999999,,0.01,,,East,North,77,",336,",",6064,",fill,feature,hearth,fill,fill hearth,B77.8
+19021,2,9222,19021.2.9222,28,,,,,,1,,,,0.083928572,2.895357175,0.119285712,0.024999999,0.029642857,,East,North,77,",336,",",3601,",fill,cut,burial,burial fill,burial fill,B77.6
+19024,2,9212,19024.2.9212,8,,,,,,1,,,,0.024999999,0.540000003,0.06375,,0.052500002,0.02,East,North,77,",337,",",3091,",floors (use),feature,bin,floors,floors bin,B77
+19029,2,9220,19029.2.9220,4,,,,,,1,,,0.0025,0.142500002,4.929999902,0.049999999,0.0175,0.0075,,East,North,77,",337,",",3092,",fill,between walls,,fill,fill between walls,B77
+19030,2,9218,19030.2.9218,20,,,,,,1,,,,0.046,0.400000011,0.004,,0.031000001,,East,North,77,",337,",,floors (use),building,general,floors,floors,B77
+19031,2,9209,19031.2.9209,28,,,,,,1,,,,0.031071429,0.484999998,0.056071428,0.002142857,0.022857143,,East,North,77,",337,",,construction/make-up/packing,feature,bin,construction,construction feature,B77
+19032,2,9223,19032.2.9223,8,,,,,,1,,,,0.029999999,0.636249984,0.0125,0.005,0.05125,,East,North,77,",337,",,fill,between walls,,fill,fill between walls,B77
 19034,2,9213,19034.2.9213,2,,,,,,,,,,0.005,0.069999998,,,,,East,North,77,",337,",,floors (use),building,general,floors,floors,B77
 19036,2,9216,19036.2.9216,5,,,,,,,,,,,0.012,,,0.016,,East,North,77,",336,",,floors (use),building,general,floors,floors,B77.8
-19090,2,9319,19090.2.9319,26,,,,,,,,,,,0.512692301,0.015,0.002307692,0.03653846,,East,North,77,",336,",,floors (use),building,general,floors,floors,B77.6
-19502,2,9679,19502.2.9679,20,,,,,,,,,,0.0075,0.251000011,0.0025,,0.001,,East,North,77,",336,",,floors (use),building,general,floors,floors,B77.4
-19514,2,9536,19514.2.9536,29,,,,,,,,,,0.002413793,0.394827587,0.008965517,0.000344828,0.057241378,,East,North,77,",336,",",6054,",floors (use),building,general,floors,floors dirty,B77.4
-19522,2,9551,19522.2.9551,35,,,,,,,,,,0.018285714,2.260857117,0.004,0.007142857,0.052285714,,East,North,77,",336,",",6053,",floors (use),building,general,floors,floors dirty,B77.4
-20931,2,10452,20931.2.10452,1,,,,,,,,,,0.139999999,1.129999975,0.029999999,,,,East,North,77,",336,",,floors (use),building,general,floors,floors,B77.4
-20934,2,10514,20934.2.10514,2,,,,,,,,,,0.015,0.190000001,,,0.045,,East,North,77,",336,",,floors (use),building,general,floors,floors,B77.3.A
-22007,2,11335,22007.2.11335,9,1.030000051,,,,,,,,,0.008888889,0.007777778,0.001111111,0.062222223,0.005555555,,East,North,77,",336,",,floors (use),building,general,floors,floors,B77.2
-22017,1,11234,22017.1.11234,27.5,,,,,,0.039272729,,,0.000727273,0.009818182,0.315636356,0.007272727,0.000363636,0.100363639,,East,North,77,",336,",",6052,",floors (use),building,general,floors,floors,B77.2
-22024,2,11586,22024.2.11586,29.5,,,,,,0.266440682,,,0.014237288,0.057288135,0.374915268,0.091864406,,0.013559322,,East,North,77,",336,",,floors (use),building,general,floors,floors,B77.2
-30133,2,10941,30133.2.10941,22,,,0.018636363,,,,,,,0.006363636,0.344545458,0.001363636,,0.002727273,,East,North,77,",336,",,floors (use),building,general,floors,floors,B77.2
-30160,2,10952,30160.2.10952,4,,,,,,,,,,0.054999999,0.297500014,0.005,,0.005,,East,North,77,",336,",,floors (use),building,general,floors,floors,B77.4
-30163,2,11000,30163.2.11000,14,,,,,,0.116428571,,,0.001428571,0.010714286,0.320714297,0.016428572,,0.007857143,,East,North,77,",336,",,floors (use),building,general,floors,floors,B77.2
-30175,2,11003,30175.2.11003,16,,,,,,0.056875002,,,,0.004375,0.562499987,0.079374997,0.0025,0.01,,East,North,77,",336,",,floors (use),building,general,floors,floors,B77.2
-30176,2,10955,30176.2.10955,9,,,,,,,,,,,0.16666666,0.004444444,0.004444444,0.144444444,,East,North,77,",336,",,floors (use),building,general,floors,floors,B77.2
-17556,2,9214,17556.2.9214,2,,,,,,,,,,0.039999999,0.195000004,0.04,0.029999999,0.03,,East,North,77,",336,",",6058,",floors (use),building,raised area (platform),floors,platform,B77.8
-17561,2,9162,17561.2.9162,20,,,,,,,,,,0.04,0.324499991,0.041000001,,0.01,,East,North,77,",336,",",6051,",floors (use),building,raised area (platform),floors,platform,B77.8
-17571,2,9205,17571.2.9205,24,,,,,,,,,,0.010416667,0.069166667,0.01,0.001666667,,,East,North,77,",336,",",6052,",floors (use),building,raised area (platform),floors,platform,B77.8
-17573,2,9267,17573.2.9267,16,,,,,,,,,,0.01,0.166249998,0.0025,,0.024374999,,East,North,77,",336,",",6053,",floors (use),building,raised area (platform),floors,platform,B77.7
-19017,2,9197,19017.2.9197,4,,,0.0625,,,,,,,,0.025,0.01,,0.039999999,,East,North,77,",336,",",6060,",floors (use),building,raised area (platform),floors,platform,B77.8
+19037,3,9283,19037.3.9283,1,,,,,,,,,,0.01,0.07,,,,,East,North,77,",336,",",3094,6050,",construction/make-up/packing,wall/blocking,,construction,construction wall/blocking,B77.7
 19042,2,9219,19042.2.9219,20,,,,,,,,,,0.002,0.02,0.0115,,0.004,,East,North,77,",336,",",6060,",floors (use),building,raised area (platform),floors,platform,B77.8
-19059,2,9269,19059.2.9269,22,,,,,,,,,,0.020454546,0.152727276,0.031363635,0.001090909,0.043636364,,East,North,77,",336,",",6058,",floors (use),building,raised area (platform),floors,platform,B77.6
-19266,2,9380,19266.2.9380,35,,,,,,,,,,0.003428571,0.406571425,0.008,0.000285714,0.001714286,,East,North,77,",336,",",6062,",floors (use),building,raised area (platform),floors,platform,B77.6
-19267,2,9426,19267.2.9426,10,,,,,,,,,,,0.237000003,0.029,0.004,0.011,,East,North,77,",336,",",6051,",floors (use),building,raised area (platform),floors,platform,B77.7
-19272,2,9389,19272.2.9389,2,,,,,,,,,,0.04,0.164999997,0.029999999,,0.005,,East,North,77,",336,",,floors (use),building,raised area (platform),floors,platform,B77.4
-19291,2,9412,19291.2.9412,6,,,,,,,,,,0.01,0.145,0.003333333,0.001666667,0.033333333,,East,North,77,",336,",",3611,",floors (use),building,raised area (platform),floors,platform,B77.5
-19293,2,9452,19293.2.9452,22,0.333636371,,,,,,,,0.002272727,0.003181818,0.70090908,0.071818184,0.004545454,0.012272728,,East,North,77,",336,",",6053,",floors (use),building,raised area (platform),floors,platform,B77.4
-19294,2,9463,19294.2.9463,20,,,,,,,,,,0.0091,0.102999997,,0.0015,0.001,,East,North,77,",336,",",6062,",floors (use),building,raised area (platform),floors,platform,B77.5
-19505,2,9657,19505.2.9657,10,,,,,0.169000006,,,,,0.033999999,0.542999997,0.015,,0.009,,East,North,77,",336,",",3610,6058,",floors (use),building,raised area (platform),floors,platform,B77.5
-19507,2,9497,19507.2.9497,20,,,0.035499999,,,,,,,0.0045,0.332999989,0.015,,0.005,,East,North,77,",336,",",3610,6058,",floors (use),building,raised area (platform),floors,platform,B77.5
-19520,2,9656,19520.2.9656,11,,,,,,,,,,0.005454545,0.308181814,0.013636364,,0.040909092,,East,North,77,",336,",",6051,",floors (use),building,raised area (platform),floors,platform,B77.6
-19530,2,9653,19530.2.9653,10,,,,,,,,,,0.019,0.385000004,0.018,,0.050999999,,East,North,77,",336,",",6062,",floors (use),building,raised area (platform),floors,platform,B77.5
-19531,2,9640,19531.2.9640,28,,,,,,,,,,0.002857143,0.593571401,0.0125,,0.039642858,,East,North,77,",336,",",6053,",floors (use),building,raised area (platform),floors,platform,B77.2
-19539,2,9662,19539.2.9662,8,,,,,,,,,0.041250002,0.0125,1.081250043,0.023749999,,0.01,,East,North,77,",336,",",6051,",floors (use),building,raised area (platform),floors,platform,B77.4
-30136,2,10978,30136.2.10978,25,,,,,,,,,,0.0032,0.426799986,0.048399998,0.0008,0.162399998,0.008,East,North,77,",336,",",6051,",floors (use),building,raised area (platform),floors,platform,
-30559,2,10696,30559.2.10696,15,,,,,,,,,,0.001333333,0.11,0.006666667,0.000666667,0.008666667,,East,North,77,",336,",",6051,",floors (use),building,raised area (platform),floors,platform,B77.3
-17580,2,9201,17580.2.9201,5,,,,,,,,,,,0.080000003,0.012,0.01,0.01,,East,North,77,",337,",",3091,",floors (use),feature,basin,floors,floors basin,B77.C
-19043,2,9228,19043.2.9228,24,,,,,,,,,,0.005833333,0.1075,0.0075,,,,East,North,77,",336,",",6058,",floors (use),feature,basin,floors,floors basin,B77.8
+19043,2,9228,19043.2.9228,24,,,,,,1,,,,0.005833333,0.1075,0.0075,,,,East,North,77,",336,",",6058,",floors (use),feature,basin,floors,floors basin,B77.8
+19044,2,9229,19044.2.9229,32,,,,,0.226875007,1,,,,0.051562501,2.062187495,0.073437499,0.0121875,0.062187501,,East,North,77,",336,",",3600,",fill,cut,burial,burial fill,burial fill,B77.6
+19045,3,9290,19045.3.9290,18,,,,,,1,,,,0.018333333,0.15833334,0.006666667,,,,East,North,77,",336,",",6064,",floors (use),feature,hearth,floors,floors hearth,B77.8
+19047,2,9224,19047.2.9224,10,,,,,,,,,0.001,0.086999997,0.032000001,0.026,0.01,0.025,,East,North,77,",336,",",3602,",fill,feature,hearth,fill,fill hearth,B77.7
+19050,3,9285,19050.3.9285,1,,,,,,,,,,,0.039999999,0.01,,,,East,North,77,",336,",",6051,",construction/make-up/packing,,,construction,construction,B77.7
 19052,2,9244,19052.2.9244,8,,,,,,,,,,0.01375,0.093750002,0.025,0.00625,0.00625,,East,North,77,",336,",",3604,",floors (use),feature,basin,floors,floors basin,B77.7
 19054,2,9270,19054.2.9270,2,,,,,,,,,,0.01,0.160000005,0.01,,,,East,North,77,",336,",",3604,",floors (use),feature,basin,floors,floors basin,B77.7
-19069,2,9277,19069.2.9277,10,,,,,,,,,,0.016,0.028999999,0.003,,,,East,North,77,",336,",",3602,",floors (use),feature,basin,floors,floors basin,B77.7
-22005,2,11186,22005.2.11186,18.5,,,,,,,,,,0.02054054,0.625405391,0.081081079,0.001621622,0.031891891,,East,North,77,",336,",",7148,",floors (use),feature,basin,floors,floors basin,B77.2
-17515,2,9175,17515.2.9175,6,,,,,,,,,,0.044999999,2.756666737,0.163333329,0.013333333,0.025,,East,North,77,",337,",",3092,",floors (use),feature,bin,floors,floors bin,B77.C
-17516,2,9190,17516.2.9190,12,,,,,,,,,,0.01,1.272499992,0.02,0.009166667,0.004166667,,East,North,77,",337,",",3092,",floors (use),feature,bin,floors,floors bin,B77.C
-19012,2,9181,19012.2.9181,10,,,,,,,,,,0.004,0.561999986,0.087000001,0.019,0.014,,East,North,77,",337,",,floors (use),feature,bin,floors,floors bin,B77
-19013,2,9182,19013.2.9182,12,,,,,,,,,,0.008333333,1.324999998,0.080833333,0.014166666,0.025,,East,North,77,",337,",,floors (use),feature,bin,floors,floors bin,B77
-19014,2,9191,19014.2.9191,16,,,,,,,,,0.003125,0.011875,1.119375014,0.07625,0.009375,0.020624999,,East,North,77,",337,",,floors (use),feature,bin,floors,floors bin,B77
-19024,2,9212,19024.2.9212,8,,,,,,,,,,0.024999999,0.540000003,0.06375,,0.052500002,0.02,East,North,77,",337,",",3091,",floors (use),feature,bin,floors,floors bin,B77
-30135,2,10940,30135.2.10940,10,,,,,,,,,,0.002,0.417000023,0.012,0.002,0.019,,East,North,77,",336,",",7148,",floors (use),feature,bin,floors,floors bin,B77.2
-17557,2,9193,17557.2.9193,6,,,,,,,,,,0.001666667,0.283333327,0.003333333,0.001666667,0.003333333,,East,North,77,",336,",",6064,",floors (use),feature,hearth,floors,floors hearth,B77.8
-19045,3,9290,19045.3.9290,18,,,,,,,,,,0.018333333,0.15833334,0.006666667,,,,East,North,77,",336,",",6064,",floors (use),feature,hearth,floors,floors hearth,B77.8
-19098,2,9360,19098.2.9360,1,,,,,,,,,,0.060000001,0.120000003,0.059999999,,,0.01,East,North,77,",336,",",3608,",floors (use),feature,niche,floors,floors niche,B77.5
+19055,2,9300,19055.2.9300,1,,,,,,,,,,,0.239999995,0.200000003,,,,East,North,77,",336,",",3095,",construction/make-up/packing,wall/blocking,,construction,construction wall/blocking,B77.8
+19057,2,9253,19057.2.9253,20,0.328500009,,,,,1,,,,0.0245,0.598500011,,0.0015,0.0115,,East,North,77,",337,",,fill,building,,fill,fill building,B77
+19059,2,9269,19059.2.9269,22,,,,,,1,,,,0.020454546,0.152727276,0.031363635,0.001090909,0.043636364,,East,North,77,",336,",",6058,",floors (use),building,raised area (platform),floors,platform,B77.6
+19061,2,9286,19061.2.9286,1,,,,,,,,,,,0.309999999,,,,,East,North,77,",336,",",3095,",construction/make-up/packing,building,,construction,construction building,B77.7
+19062,1,9273,19062.1.9273,12,,,,,,1,,,,0.056666667,0.001666667,0.003333333,0.000833333,0.026666667,,East,North,77,",336,",,fill,feature,basin,fill,fill basin,B77.7
+19064,2,9272,19064.2.9272,1,,,,,,,,,0.029999999,1.35999997,9.240000257,,,0.039999999,,East,North,77,",336,",",8137,",fill,cut,posthole,fill,fill posthole/stakehole,B77.6
 19068,2,9274,19068.2.9274,6,,,,,,,,,,0.026666667,0.083333334,,0.008333333,,,East,North,77,",336,",",3603,",floors (use),feature,oven,floors,floors oven,B77.7
+19069,2,9277,19069.2.9277,10,,,,,,1,,,,0.016,0.028999999,0.003,,,,East,North,77,",336,",",3602,",floors (use),feature,basin,floors,floors basin,B77.7
+19070,2,9278,19070.2.9278,21,,,,,,1,,,,0.011428571,0.14333333,0.008095238,0.014761905,0.022857142,,East,North,77,",336,",",3603,",construction/make-up/packing,feature,oven,construction,construction feature,B77.7
+19071,2,9284,19071.2.9284,1,,,,,,1,,,,0.01,0.449999996,,,,,East,North,77,",336,",",3095,",construction/make-up/packing,wall/blocking,,construction,construction wall/blocking,B77.7
 19072,1,9281,19072.1.9281,2,,,,,,,,,,0.01,0.015,,,,,East,North,77,",336,",",3606,",floors (use),feature,oven,floors,floors oven,B77.6
-19087,2,9312,19087.2.9312,6,,,,,,,,,,0.071666665,0.089999995,0.011666666,,0.011666667,,East,North,77,",336,",",3606,",floors (use),feature,oven,floors,floors oven,B77.6
-19088,2,9331,19088.2.9331,4,,,,,,,,,,,0.080000002,0.02,,0.0125,,East,North,77,",336,",",3609,",floors (use),feature,oven,floors,floors oven,B77.4
-19419,3,9348,19419.3.9348,3,,,,,,,,,,0.023333333,0.073333332,0.083333332,,,,East,North,77,",336,",",3608,",floors (use),feature,oven,floors,floors oven,B77.5
-19428,1,9349,19428.1.9349,1.5,,,,,,,,,,0.126666666,0.986666692,,,0.026666666,,East,North,77,",336,",,floors (use),feature,oven,floors,floors oven,B77.5
+19073,2,9280,19073.2.9280,6,,,,,,,,,,0.049999999,1.12333334,0.01,,0.038333335,,East,North,77,",336,",",3605,",construction/make-up/packing,feature,basin,construction,construction feature,B77.6
+19074,2,9282,19074.2.9282,5,,,,,,1,,,,0.002,0.016,0.024,,,,East,North,77,",336,",",3606,",construction/make-up/packing,feature,oven,construction,construction feature,B77.6
+19075,2,9297,19075.2.9297,12,,,,,,1,,,,0.006666667,0.285833335,0.008333334,,0.0025,,East,North,77,",336,",",3606,",construction/make-up/packing,building,,construction,construction building,B77.6
+19077,2,9334,19077.2.9334,8,,,,,,1,,,,,0.295000014,0.04125,,0.0025,,East,North,77,",336,",",3094,",construction/make-up/packing,building,,construction,construction building,B77.7
+19080,2,9301,19080.2.9301,14,,,,,,,,,,,,,,,,East,North,77,",336,",",6050,",construction/make-up/packing,wall/blocking,,construction,construction wall/blocking,B77.7
+19084,2,9305,19084.2.9305,6,,,,,,1,,,,0.079999998,0.12,0.030000001,,0.013333333,,East,North,77,",336,",",3607,",fill,feature,oven,fill,fill oven,B77.6
+19087,2,9312,19087.2.9312,6,,,,,,1,,,,0.071666665,0.089999995,0.011666666,,0.011666667,,East,North,77,",336,",",3606,",floors (use),feature,oven,floors,floors oven,B77.6
+19088,2,9331,19088.2.9331,4,,,,,,1,,,,,0.080000002,0.02,,0.0125,,East,North,77,",336,",",3609,",floors (use),feature,oven,floors,floors oven,B77.4
+19090,2,9319,19090.2.9319,26,,,,,,,,,,,0.512692301,0.015,0.002307692,0.03653846,,East,North,77,",336,",,floors (use),building,general,floors,floors,B77.6
+19091,2,9318,19091.2.9318,6,,,0.625,,,,,,,0.005,0.011666666,0.005,,0.05,,East,North,77,",336,",",3609,",construction/make-up/packing,feature,oven,construction,construction feature,B77.4
+19094,2,9316,19094.2.9316,10,,,,1.060999966,,1,,,,,13.48399939,0.007,0.008,0.006,,East,North,77,",336,",",8134,",construction/make-up/packing,building,,construction,construction building,B77.6
+19095,2,9333,19095.2.9333,6,,,,,,1,,,,0.003333333,0.953333301,0.043333332,,0.006666667,,East,North,77,",336,",",8135,",construction/make-up/packing,building,,construction,construction building,B77.6
+19098,2,9360,19098.2.9360,1,,,,,,,,,,0.060000001,0.120000003,0.059999999,,,0.01,East,North,77,",336,",",3608,",floors (use),feature,niche,floors,floors niche,B77.5
+19266,2,9380,19266.2.9380,35,,,,,,1,,,,0.003428571,0.406571425,0.008,0.000285714,0.001714286,,East,North,77,",336,",",6062,",floors (use),building,raised area (platform),floors,platform,B77.6
+19267,2,9426,19267.2.9426,10,,,,,,1,,,,,0.237000003,0.029,0.004,0.011,,East,North,77,",336,",",6051,",floors (use),building,raised area (platform),floors,platform,B77.7
+19269,2,9423,19269.2.9423,6,,,,,,,,,,0.001666667,0.034999999,0.043333334,,0.016666667,,East,North,77,",336,",",6053,",fill,cut,posthole,fill,fill posthole/stakehole,B77.1.A
+19270,2,9434,19270.2.9434,2,,,,,,,,,,,0.374999999,0.015,,,,East,North,77,",336,",",3613,",fill,feature,bin,fill,fill bin,B77.4
+19272,2,9389,19272.2.9389,2,,,,,,1,,,,0.04,0.164999997,0.029999999,,0.005,,East,North,77,",336,",,floors (use),building,raised area (platform),floors,platform,B77.4
+19273,2,9432,19273.2.9432,8,,,,,,1,,,,0.015,0.730000023,0.0075,0.00125,0.152499996,,East,North,77,",336,",",8136,",fill,feature,basin,fill,fill basin,B77.5
+19276,2,9436,19276.2.9436,2,,,,,,,,,,,0.01,0.005,,0.005,,East,North,77,",336,",",6050,",construction/make-up/packing,feature,bin,construction,construction feature,B77.6
+19277,2,9421,19277.2.9421,4,,,,,,,,,,0.127499998,0.739999978,,,,,East,North,77,",336,",",6050,",construction/make-up/packing,feature,basin,construction,construction feature,B77.6
+19280,2,9422,19280.2.9422,6,,,0.048333332,,,1,,,,,0.091666666,0.006666667,,0.245000009,,East,North,77,",336,",",6058,",construction/make-up/packing,feature,raised area (platform),construction,construction feature,B77.5
+19281,2,9385,19281.2.9385,24,,,,,,1,,,,0.015833333,0.57416667,0.060833332,0.0125,0.018750001,0.019166667,East,North,77,",336,",",3612,",fill,cut,scoop,fill,fill scoop,B77.7
+19282,2,9447,19282.2.9447,16,,,,,,,,,,0.00875,0.196249999,0.005625,,0.014375,,East,North,77,",336,",",3610,",construction/make-up/packing,feature,bin,construction,construction feature,B77.5
+19284,2,9424,19284.2.9424,2,,,,,,,,,,,8.255000107,0.02,0.095000003,0.025,,East,North,77,",336,",",3094,",construction/make-up/packing,building,,construction,construction building,B77.7
+19288,2,9408,19288.2.9408,2,,,,,,,,,,0.055,0.635000009,0.159999998,0.03,,,East,North,77,",336,",,construction/make-up/packing,feature,niche,construction,construction feature,B77.7
+19289,2,9445,19289.2.9445,18,,,,,,,,,,0.001666667,0.036666666,0.031111111,0.003333333,0.008333333,,East,North,77,",336,",",6053,",floors (use),feature,pedestal/podium/plinth,floors,floors pedestal/podium/plynth,B77.4
+19291,2,9412,19291.2.9412,6,,,,,,,,,,0.01,0.145,0.003333333,0.001666667,0.033333333,,East,North,77,",336,",",3611,",floors (use),building,raised area (platform),floors,platform,B77.5
+19293,2,9452,19293.2.9452,22,0.333636371,,,,,1,,,0.002272727,0.003181818,0.70090908,0.071818184,0.004545454,0.012272728,,East,North,77,",336,",",6053,",floors (use),building,raised area (platform),floors,platform,B77.4
+19294,2,9463,19294.2.9463,20,,,,,,1,,,,0.0091,0.102999997,,0.0015,0.001,,East,North,77,",336,",",6062,",floors (use),building,raised area (platform),floors,platform,B77.5
+19295,2,9520,19295.2.9520,36,,,,,,,,,0.000833333,0.024444445,1.767777777,0.042222221,,0.021388888,,East,North,77,",336,",",3615,",fill,cut,burial,burial fill,burial fill,B77.7
+19296,2,9433,19296.2.9433,8,,,,,,1,,,,0.0025,0.736250006,0.0175,,0.0075,,East,North,77,",336,",,fill,cut,posthole,fill,fill posthole/stakehole,B77.1.A
+19299,2,9466,19299.2.9466,6,,,,,,,,,,,0.101666665,0.011666666,,0.018333334,,East,North,77,",336,",",3610,",construction/make-up/packing,feature,bin,construction,construction feature,B77.5
+19403,2,9317,19403.2.9317,1,,,,,,,,,,0.089999998,0.790000025,0.039999999,,,,East,North,77,",336,",",8140,",fill,building,,fill,fill building,B77.5
+19405,1,9328,19405.1.9328,12,,,,,,1,,,,0.035833333,0.413333349,0.029166667,0.009166667,0.070000002,,East,North,77,",336,",",3605,",construction/make-up/packing,feature,bin,construction,construction feature,B77.6
+19407,2,9314,19407.2.9314,6,,,,,,1,,,0.001666667,0.24,0.324999996,0.001666667,,0.026666667,,East,North,77,",336,",,fill,cut,posthole,fill,fill posthole/stakehole,B77.2
+19419,3,9348,19419.3.9348,3,,,,,,1,,,,0.023333333,0.073333332,0.083333332,,,,East,North,77,",336,",",3608,",floors (use),feature,oven,floors,floors oven,B77.5
+19420,2,9359,19420.2.9359,25,,,,,,,,,,,0.119599997,0.0032,,0.0048,,East,North,77,",336,",",3607,",construction/make-up/packing,feature,oven,construction,construction feature,B77.6
+19428,1,9349,19428.1.9349,1.5,,,,,,1,,,,0.126666666,0.986666692,,,0.026666666,,East,North,77,",336,",,floors (use),feature,oven,floors,floors oven,B77.5
+19471,5,9762,19471.5.9762,5,,,,,,1,,,,0.018,0.386000003,0.046,,0.004,,East,North,77,",336,",",3642,",fill,cut,burial,burial fill,burial fill,B77.5
+19502,2,9679,19502.2.9679,20,,,,,,1,,,,0.0075,0.251000011,0.0025,,0.001,,East,North,77,",336,",,floors (use),building,general,floors,floors,B77.4
+19503,2,9465,19503.2.9465,2,,,,,,,,,,0.034999999,0.074999998,0.02,,,,East,North,77,",336,",",3610,",construction/make-up/packing,feature,bin,construction,construction feature,B77.5
+19504,2,9569,19504.2.9569,2,,,,,,,,,,,0.535,0.005,,0.069999998,,East,North,77,",336,",",3610,",construction/make-up/packing,feature,bin,construction,construction feature,B77.5
+19505,2,9657,19505.2.9657,10,,,,,0.169000006,1,,,,0.033999999,0.542999997,0.015,,0.009,,East,North,77,",336,",",3610,6058,",floors (use),building,raised area (platform),floors,platform,B77.5
+19506,2,9464,19506.2.9464,6,,,,,,1,,,,0.088333336,0.841666634,0.005,,0.083333331,,East,North,77,",336,",",3618,",construction/make-up/packing,feature,hearth,construction,construction feature,B77.5
+19507,2,9497,19507.2.9497,20,,,0.035499999,,,1,,,,0.0045,0.332999989,0.015,,0.005,,East,North,77,",336,",",3610,6058,",floors (use),building,raised area (platform),floors,platform,B77.5
+19508,2,9485,19508.2.9485,10,,,,,,,,,,0.05,0.270000002,0.002,,,,East,North,77,",336,",",3618,",construction/make-up/packing,feature,hearth,construction,construction feature,B77.5
+19510,2,9455,19510.2.9455,1,,,,,,,,,,,0.199999997,0.01,,0.01,,East,North,77,",336,",",3621,",construction/make-up/packing,feature,oven,construction,construction feature,B77.4
+19511,2,9544,19511.2.9544,24,,,,,,,,,,0.00875,0.589999993,0.022916667,,0.01375,,East,North,77,",336,",",3610,6058,",construction/make-up/packing,feature,raised area (platform),construction,construction feature,B77.4
+19512,2,9446,19512.2.9446,8,,,,,,1,,,0.07,0.055000001,2.46999998,0.056249999,0.0025,0.088750001,0.07,East,North,77,",336,",",3615,",fill,cut,burial,burial fill,burial fill,B77.7
+19513,2,9568,19513.2.9568,2,,,,,,,,,,0.005,0.024999999,,,,,East,North,77,",336,",",3621,",construction/make-up/packing,feature,oven,construction,construction feature,B77.4
+19514,2,9536,19514.2.9536,29,,,,,,,,,,0.002413793,0.394827587,0.008965517,0.000344828,0.057241378,,East,North,77,",336,",",6054,",floors (use),building,general,floors,floors dirty,B77.4
+19515,2,9530,19515.2.9530,6,,,,,,,,,,0.086666666,1.104999989,0.043333333,0.003333333,0.01,,East,North,77,",336,",",3610,",construction/make-up/packing,feature,basin,construction,construction feature,B77.4
+19516,2,9486,19516.2.9486,4,,,,,,,,,,0.005,0.222500003,0.0275,,,,East,North,77,",336,",",3611,",construction/make-up/packing,building,,construction,construction building,B77.5
+19517,2,9454,19517.2.9454,2,,,,,,,,,,0.005,,0.015,,0.015,,East,North,77,",336,",",3611,",construction/make-up/packing,building,,construction,construction building,B77.5
+19519,2,9453,19519.2.9453,6,,,,,,1,,,,0.005,0.238333329,0.01,,,,East,North,77,",336,",",364,",construction/make-up/packing,building,,construction,construction building,B77.5
+19520,2,9656,19520.2.9656,11,,,,,,,,,,0.005454545,0.308181814,0.013636364,,0.040909092,,East,North,77,",336,",",6051,",floors (use),building,raised area (platform),floors,platform,B77.6
+19522,2,9551,19522.2.9551,35,,,,,,,,,,0.018285714,2.260857117,0.004,0.007142857,0.052285714,,East,North,77,",336,",",6053,",floors (use),building,general,floors,floors dirty,B77.4
+19524,2,9635,19524.2.9635,20,,,,,,1,,,,0.0015,0.470000001,0.0145,,0.019,,East,North,77,",336,",",3611,",construction/make-up/packing,building,,construction,construction building,B77.5
+19525,2,9665,19525.2.9665,10,,,,,,1,,,0.064999998,0.059000001,1.694,0.07,,0.089999999,,East,North,77,",336,",",3615,",fill,cut,burial,burial fill,burial fill,B77.7
+19526,2,9666,19526.2.9666,88,,,,,,1,,,0.003977273,0.013977273,1.612045517,0.074204547,0.008977273,0.071931816,,East,North,77,",336,",",3616,",fill,cut,burial,burial fill,burial fill,B77.2.D
+19527,2,9582,19527.2.9582,4,,,,,,,,,,0.0025,0.762500018,0.0025,0.005,0.064999998,0.0025,East,North,77,",336,",",3621,",construction/make-up/packing,feature,oven,construction,construction feature,B77.4
+19528,2,9670,19528.2.9670,8,,,,,,1,,,,0.005,0.596250001,0.01875,,0.0025,,East,North,77,",336,",,construction/make-up/packing,building,,construction,construction building,B77.4
+19530,2,9653,19530.2.9653,10,,,,,,1,,,,0.019,0.385000004,0.018,,0.050999999,,East,North,77,",336,",",6062,",floors (use),building,raised area (platform),floors,platform,B77.5
+19531,2,9640,19531.2.9640,28,,,,,,,,,,0.002857143,0.593571401,0.0125,,0.039642858,,East,North,77,",336,",",6053,",floors (use),building,raised area (platform),floors,platform,B77.2
+19532,2,9559,19532.2.9559,23,,,,,,1,,,,0.015217392,0.394782589,0.006086956,,0.022608696,,East,North,77,",336,",",3617,",construction/make-up/packing,building,,construction,construction building,B77.4
+19533,2,9617,19533.2.9617,2,,,,,,1,,,,0.059999999,2.810000088,0.01,,0.005,,East,North,77,",336,",",3616,",fill,cut,burial,burial fill,burial fill,B77.2.D
+19534,2,9694,19534.2.9694,34,0.016176471,,,0.045882351,,1,,,0.030000001,0.017352942,4.779117577,0.047058824,0.003235294,0.01,0.072352942,East,North,77,",336,",",3619,",fill,cut,burial,burial fill,burial fill,B77.5
+19537,2,9695,19537.2.9695,28,,,,,,1,,,,,0.042857143,,,0.008571428,,East,North,77,",336,",",3,",construction/make-up/packing,building,,construction,construction building,B77.5
+19538,2,9624,19538.2.9624,20,,,0.0125,,,,,,,,0.028,0.01,,,,East,North,77,",336,",",3093,",construction/make-up/packing,building,,construction,construction building,B77.3.B
+19539,2,9662,19539.2.9662,8,,,,,,1,,,0.041250002,0.0125,1.081250043,0.023749999,,0.01,,East,North,77,",336,",",6051,",floors (use),building,raised area (platform),floors,platform,B77.4
+19540,2,9702,19540.2.9702,102,,,,,,1,0.014607843,0,0.029117648,0.010588235,4.732941197,0.050784313,0.006176471,0.045686274,,East,North,77,",336,",",3620,",fill,cut,burial,burial fill,burial fill,B77.7
+19545,2,9655,19545.2.9655,8,,,,,,,,,,,0.005,0.005,,0.00125,,East,North,77,",336,",",3095,",construction/make-up/packing,wall/blocking,,construction,construction wall/blocking,B77.3
+19549,2,9612,19549.2.9612,6,,,,,,,,,,,0.018333333,,,,,East,North,77,",336,",",3094,",construction/make-up/packing,wall/blocking,,construction,construction wall/blocking,B77.5
+19551,2,9629,19551.2.9629,8,,,,,,,,,,0.058750001,0.30125,,,0.00375,,East,North,77,",336,",",6058,",fill,feature,oven,fill,fill oven,B77.6
+19555,2,9607,19555.2.9607,8,,,,0.200000003,,,,,,0.00625,0.03,0.061249998,,0.00125,,East,North,77,",336,",",3621,",construction/make-up/packing,feature,oven,construction,construction feature,B77.4
+19556,2,9701,19556.2.9701,18,,,,,,1,,,,0.002777778,0.272777771,0.036555556,0.000555556,0.021666666,,East,North,77,",336,",,construction/make-up/packing,wall/blocking,,construction,construction wall/blocking,B77.2
+19558,2,9616,19558.2.9616,4,,,,,,,,,,0.01,0.1425,0.0025,0.0025,0.035,,East,North,77,",336,",",8132,",fill,feature,hearth,fill,fill hearth,B77.3
+19561,2,9700,19561.2.9700,6,,,,,,1,,,,0.011666666,0.096666665,0.013333333,,0.028333332,,East,North,77,",336,",",8128,",fill,feature,hearth,fill,fill hearth,B77.2
+19563,2,10173,19563.2.10173,19,,,,,,1,,,,0.021578948,0.584210537,0.104736845,0.00631579,0.01631579,0.005789474,East,North,77,",336,",",6051,",construction/make-up/packing,feature,raised area (platform),construction,construction feature,B77.4
+19574,2,10175,19574.2.10175,2,,,,,,1,,,,0.01,0.015,0.005,,,,East,North,77,",336,",",3095,",construction/make-up/packing,wall/blocking,,construction,construction wall/blocking,
+20424,2,9815,20424.2.9815,8,,,,,,1,,,,0.025000001,0.415000005,0.015,0.00125,0.01,,East,North,77,",336,",",7108,",construction/make-up/packing,feature,oven,construction,construction feature,B77.6
+20432,2,9877,20432.2.9877,1,,,,,,,,,,0.049999999,0.02,,0.02,,,East,North,77,",336,",",7108,99999,",construction/make-up/packing,feature,oven,construction,construction feature,B77.6
+20448,3,10942,20448.3.10942,104,0.087115389,,0.001538462,0.002403846,,1,,,,0.044903845,0.369615378,0.011826923,0.001153846,0.011538462,,East,North,77,",336,",",7108,",construction/make-up/packing,feature,oven,construction,construction feature,B77.6
+20454,2,9864,20454.2.9864,1,,,,,,,,,,0.039999999,0.049999999,,,,,East,North,77,",336,",",7108,",construction/make-up/packing,feature,oven,construction,construction feature,B77.6
 20464,2,9885,20464.2.9885,19,,,,,,,,,,0.03631579,0.098947368,0.026315789,,0.005789474,,East,North,77,",336,",",7108,",floors (use),feature,oven,floors,floors oven,B77.6
 20466,4,10951,20466.4.10951,7,,,,,,,,,,0.014285715,0.032857142,0.001428571,,,,East,North,77,",336,",",7108,",floors (use),feature,oven,floors,floors oven,B77.6
 20469,2,9903,20469.2.9903,12,,,,,,,,,,0.006666667,0.036666666,0.006666667,,,,East,North,77,",336,",",7108,",floors (use),feature,oven,floors,floors oven,B77.6
-20473,2,9922,20473.2.9922,1,,,,,,,,,,0.100000001,0.169999998,0.02,0.02,,,East,North,77,",336,",",7108,",floors (use),feature,oven,floors,floors oven,B77.6
-22015,2,11226,22015.2.11226,3.5,,,,,,,,,,0.002857143,0.025714286,0.008571428,,0.002857143,,East,North,77,",336,",",7308,",floors (use),feature,oven,floors,floors oven,B77.3
+20473,2,9922,20473.2.9922,1,,,,,,1,,,,0.100000001,0.169999998,0.02,0.02,,,East,North,77,",336,",",7108,",floors (use),feature,oven,floors,floors oven,B77.6
+20477,2,9930,20477.2.9930,9,,,,,,1,,,,0.008888889,0.188888886,0.01,,0.001111111,,East,North,77,",336,",",7108,",construction/make-up/packing,feature,oven,construction,construction feature,B77.6
+20478,2,10047,20478.2.10047,10,,,,,,1,,,,0.175000004,0.133000001,0.041999999,,0.015,,East,North,77,",336,",",7108,",construction/make-up/packing,feature,oven,construction,construction feature,B77.6
+20482,2,9949,20482.2.9949,29,,,,,,,,,,0.003103448,0.55551724,0.025517241,0.000344828,0.03724138,,East,North,77,",336,",",6051,",construction/make-up/packing,feature,raised area (platform),construction,construction feature,B77.4
+20496,2,10244,20496.2.10244,12,,,,,,1,,,,0.011666666,0.180000002,0.001666667,0.004166667,0.003333333,0.005,East,North,77,",336,",",7108,",construction/make-up/packing,feature,oven,construction,construction feature,
+20611,2,10309,20611.2.10309,17,,,,,,,,,,0.01,0.091764706,0.023529412,0.001176471,0.002352941,,East,North,77,",336,",",3096,",construction/make-up/packing,wall/blocking,,construction,construction wall/blocking,
+20618,2,10354,20618.2.10354,6.5,,,,,,1,,,,0.066153848,0.472307708,0.004615385,,0.003076923,,East,North,77,",336,",",3096,",fill,between walls,,fill,fill between walls,
+20625,2,10342,20625.2.10342,23,,,,,,1,,,0.037391305,0.007391304,1.823912992,0.016086957,0.005652174,0.00826087,,East,North,77,",336,",",6051,",fill,cut,burial,burial fill,burial fill,B77.7
+20644,2,10326,20644.2.10326,0.100000001,,,,,,,,,,0.099999996,,0.099999996,0.099999996,,,East,North,77,",336,",",7301,",construction/make-up/packing,wall/blocking,,construction,construction wall/blocking,B77.8
+20686,2,10553,20686.2.10553,29,,,,,,1,,,0.157241382,0.002068966,11.79206943,0.015517241,,0.047931034,,East,North,77,",336,",",3697,",fill,cut,burial,burial fill,burial fill,B77.7
+20688,2,10642,20688.2.10642,21,,,,,,1,,,,0.054285715,1.836666671,0.05047619,0.006666667,0.039523809,,East,North,77,",336,",",7132,",fill,cut,burial,burial fill,burial fill,B77.3
+20910,2,10420,20910.2.10420,1.5,,,,,,,,,,0.006666667,0.146666667,,,,,East,North,77,",336,",",3613,",construction/make-up/packing,feature,bin,construction,construction feature,B77.4
+20921,3,10459,20921.3.10459,3,,,,,,,,,,0.006666667,1.029999984,,0.006666667,0.013333333,,East,North,77,",336,",",3613,",construction/make-up/packing,feature,bin,construction,construction feature,B77.4
+20930,2,10728,20930.2.10728,58,,,,,,1,,,,0.010517241,3.321206771,0.042068966,0.000517241,0.022586207,,East,North,77,",336,",",7130,",fill,cut,burial,burial fill,burial fill,B77.5
+20931,2,10452,20931.2.10452,1,,,,,,,,,,0.139999999,1.129999975,0.029999999,,,,East,North,77,",336,",,floors (use),building,general,floors,floors,B77.4
+20934,2,10514,20934.2.10514,2,,,,,,1,,,,0.015,0.190000001,,,0.045,,East,North,77,",336,",,floors (use),building,general,floors,floors,B77.3.A
+20947,2,10703,20947.2.10703,24,,,,,,1,,,,0.00625,2.850833264,0.034166666,0.001666667,0.0475,,East,North,77,",336,",",7136,",fill,cut,burial,burial fill,burial fill,B77.5
+20950,2,10515,20950.2.10515,2,,,,,,,,,,0.005,0.369999984,0.005,,0.029999999,,East,North,77,",336,",",3617,",construction/make-up/packing,feature,raised area (platform),construction,construction feature,B77.1.B
+20982,1,10972,20982.1.10972,5,,,,,,,,,,0.02,0.177999998,0.008,,,,East,North,77,",336,",",3096,",construction/make-up/packing,wall/blocking,,construction,construction wall/blocking,B77.4
+20989,2,10634,20989.2.10634,16,,,0.066875003,,,1,,,0.01,0.032500001,15.4931245,0.034999999,0.004375,0.105625,,East,North,77,",336,",",7133,",fill,cut,burial,burial fill,burial fill,B77.2.D
+21602,2,11644,21602.2.11644,17.5,,,,,,1,,,,0.045714287,1.122857141,0.038285715,0.002285714,0.078285713,,East,North,77,",336,",",7609,",fill,cut,burial,burial fill,burial fill,B77.2
+21605,1,11543,21605.1.11543,17.5,1.403999983,,,,,1,,,0.006857143,0.009142857,1.433714307,0.186285713,0.018285714,0.071999999,,East,North,77,",336,",",7611,",fill,cut,burial,burial fill,burial fill,B77.4
+21610,2,11518,21610.2.11518,5.5,,,,,,,1.536363602,0,,0.001818182,1.40909094,0.18181818,0.016363636,0.321818182,0.007272727,East,North,77,",336,",",6055,",construction/make-up/packing,feature,post,construction,construction feature,B77.1.A
+21614,2,11541,21614.2.11541,27.5,,,,,,1,,,,0.005454546,2.839272694,0.045818181,0.002545455,0.159272726,,East,North,77,",336,",,fill,between walls,,fill,fill between walls,
+21621,1,11668,21621.1.11668,15,,,,,,1,,,0.004,0.015333333,1.125333384,0.192,0.021333333,0.092000003,,East,North,77,",336,",",6056,",fill,cut,posthole,fill,fill posthole/stakehole,B77.1.A
+21623,1,11654,21623.1.11654,12.39999962,,,,,,1,,,0.002419355,0.035483872,1.475806558,0.081451615,0.004032258,0.024193549,,East,North,77,",336,",",7853,",fill,cut,burial,burial fill,burial fill,B77.3.B
+21626,1,11673,21626.1.11673,18,,,,,,1,,,0.022777778,0.005,2.758888904,0.095000003,,0.048888889,,East,North,77,",336,",",7630,",fill,cut,burial,burial fill,burial fill,B77.2.C
+21637,2,11704,21637.2.11704,6,,,,,,1,,,,0.013333333,2.723333254,0.060000002,0.001666667,0.021666666,,East,North,77,",336,",",7640,",fill,cut,burial,burial fill,burial fill,B77.4
+21647,2,11790,21647.2.11790,32,,,,,,1,,,,0.015625,1.515937491,0.077499998,0.0028125,0.031875,,East,North,77,",336,",,fill,building,,fill,fill building,B77.1.A
+21655,2,11789,21655.2.11789,113,,,,,,1,,,,0.007433628,1.377787615,0.062389381,0.002566372,0.053185839,,East,North,77,",336,",",7853,",fill,cut,burial,burial fill,burial fill,B77.3.B
+21667,2,11957,21667.2.11957,15,,,,,,1,,,,0.003333333,1.493333277,0.051999999,0.004666667,0.027333333,,East,North,77,",336,",",7857,",fill,cut,burial,burial fill,burial fill,B77.3.A
+21673,2,11895,21673.2.11895,14,,,,,,,,,,0.062142857,1.859285648,0.083571427,0.032857143,0.024999999,0.007142857,East,North,77,",337,",",7858,",construction/make-up/packing,wall/blocking,,construction,construction wall/blocking,
+21674,2,11896,21674.2.11896,5.5,,,,,,,,,,0.027272727,1.581818225,0.23636364,0.014545454,0.029090908,,East,North,77,",337,",",7858,",construction/make-up/packing,wall/blocking,,construction,construction wall/blocking,
+21677,3,11968,21677.3.11968,6,,,,,,,,,,0.011666666,0.50333335,0.021666666,0.016666666,0.023333333,,East,North,77,",336,",",7859,",fill,cut,burial,burial fill,burial fill,B77.3.A
+21680,2,11956,21680.2.11956,10,,,,,,1,,,0.002,0.005,3.579999939,0.068,,0.407000021,,East,North,77,",336,",",7862,",fill,cut,burial,burial fill,burial fill,B77.3
+21682,2,11993,21682.2.11993,16.5,2.293333343,0.047878789,,,,1,,,0.107272727,0.03030303,2.85818178,0.12606061,0.008484848,0.087272729,,East,North,77,",336,",",7860,",fill,cut,burial,burial fill,burial fill,B77.2.B
+22004,2,11185,22004.2.11185,5,,,,,,,,,0.006,0.099999999,1.070000046,0.008,,0.012,,East,North,77,",336,",,construction/make-up/packing,building,,construction,construction building,B77.2
+22005,2,11186,22005.2.11186,18.5,,,,,,,,,,0.02054054,0.625405391,0.081081079,0.001621622,0.031891891,,East,North,77,",336,",",7148,",floors (use),feature,basin,floors,floors basin,B77.2
+22006,1,11176,22006.1.11176,6,,,,,,1,,,,,0.086666668,0.005,,0.003333333,,East,North,77,",336,",",7604,",construction/make-up/packing,feature,basin,construction,construction feature,B77.2
+22007,2,11335,22007.2.11335,9,1.030000051,,,,,,,,,0.008888889,0.007777778,0.001111111,0.062222223,0.005555555,,East,North,77,",336,",,floors (use),building,general,floors,floors,B77.2
+22009,2,11172,22009.2.11172,59.5,1.06117646,,,,,1,,,,0.006218487,0.684369764,0.077647061,0.004033613,0.051092437,,East,North,77,",336,",",6052,",construction/make-up/packing,feature,raised area (platform),construction,construction feature,B77.1.B
+22014,2,11220,22014.2.11220,13.5,,,,0.391111127,,1,,,,0.008888889,0.436296288,0.050370371,0.000740741,0.017777778,,East,North,77,",336,",,construction/make-up/packing,feature,basin,construction,construction feature,B77.2
+22015,2,11226,22015.2.11226,3.5,,,,,,1,,,,0.002857143,0.025714286,0.008571428,,0.002857143,,East,North,77,",336,",",7308,",floors (use),feature,oven,floors,floors oven,B77.3
+22017,1,11234,22017.1.11234,27.5,,,,,,1,,,0.000727273,0.009818182,0.315636356,0.007272727,0.000363636,0.100363639,,East,North,77,",336,",",6052,",floors (use),building,general,floors,floors,B77.2
+22018,2,11253,22018.2.11253,30,,,,,,1,,,,0.041666668,1.355333293,0.098666664,0.009333333,0.07766667,0.029,East,North,77,",336,",",3617,",construction/make-up/packing,feature,raised area (platform),construction,construction feature,B77.1.B
+22024,2,11586,22024.2.11586,29.5,,,,,,1,,,0.014237288,0.057288135,0.374915268,0.091864406,,0.013559322,,East,North,77,",336,",,floors (use),building,general,floors,floors,B77.2
+22025,2,11313,22025.2.11313,33,,,,,,1,,,,0.011212121,0.592727259,0.116363634,0.003939394,0.033636363,,East,North,77,",336,",,construction/make-up/packing,building,,construction,construction building,B77.1.B
+22027,2,11361,22027.2.11361,82.5,,,,,0.050303031,1,,,0.001454545,0.022060606,1.61078793,0.086303029,0.003878788,0.03709091,,East,North,77,",336,",",7333,",fill,cut,burial,burial fill,burial fill,B77.3
+22036,2,11284,22036.2.11284,4,,,,,,,,,,,0.187500007,0.0025,0.005,0.0275,,East,North,77,",336,",",7564,",fill,cut,pit,fill,fill pit,B77.2
+22041,2,11573,22041.2.11573,9,0.887777752,,,,,1,,,0.049999999,,2.240000023,,0.004444444,0.093333332,,East,North,77,",336,",",7562,",fill,cut,burial,burial fill,burial fill,B77.2.B
+22046,2,11316,22046.2.11316,5,,,,,,,,,,0.022000001,0.764000002,0.047999999,,0.029999999,,East,North,77,",336,",,construction/make-up/packing,floor (packing only),,construction,construction floor,B77.2
+22047,2,11321,22047.2.11321,3,,,,,,1,,,,,0.243333323,0.04,,,,East,North,77,",336,",,construction/make-up/packing,building,,construction,construction building,B77.2
+22048,2,11308,22048.2.11308,29,,,,,,1,,,,0.000689655,11.99206939,0.010689655,,0.058965519,,East,North,77,",337,",,fill,between walls,,fill,fill between walls,
+22049,2,11451,22049.2.11451,27.5,,,,,,1,,,,,0.309454553,0.021454546,0.005818182,0.045454546,,East,North,77,",336,",,construction/make-up/packing,building,,construction,construction building,B77.2
+22050,1,11309,22050.1.11309,7,,,,,,1,,,,0.014285714,2.147142819,0.102857142,0.005714286,0.127142858,,East,North,77,",336,",,construction/make-up/packing,floor (packing only),,construction,construction floor,B77.2
+22052,2,11402,22052.2.11402,18.5,,,,,,,,,,0.003783784,0.431351356,0.002162162,0.001621622,0.032972972,,East,North,77,",336,",",6051,",construction/make-up/packing,feature,raised area (platform),construction,construction feature,B77.2.B
+22053,2,11328,22053.2.11328,4.5,,,,,,,,,,0.017777777,0.253333336,0.033333333,0.015555555,0.026666667,0.048888889,East,North,77,",336,",,construction/make-up/packing,feature,post,construction,construction feature,B77.2
+22054,1,11627,22054.1.11627,11,,,,,,1,,,,0.004545454,0.631818192,0.140000001,0.065454544,0.047272727,,East,North,77,",336,",",6051,",fill,cut,burial,burial fill,burial fill,B77.2
 22055,2,11362,22055.2.11362,5,,,,,,,,,,0.02,0.430000019,0.018,0.008,0.012,,East,North,77,",336,",",7308,",floors (use),feature,oven,floors,floors oven,B77.3
+22057,2,11330,22057.2.11330,9,,,,,,,,,,,0.736666658,0.006666667,0.150000001,0.16,,East,North,77,",336,",,construction/make-up/packing,building,,construction,construction building,B77.2
+22058,2,11384,22058.2.11384,21,,,,,,1,,,,0.018095238,0.441904749,,,0.037619047,0.02047619,East,North,77,",336,",,construction/make-up/packing,floor (packing only),,construction,construction floor,B77.1.B
 22059,2,11363,22059.2.11363,8,,,,,,,,,,,0.093750004,,,0.068750001,,East,North,77,",336,",",7583,",floors (use),feature,oven,floors,floors oven,B77.2
+22061,2,11386,22061.2.11386,0.300000012,,,,,,,,,,0.033333331,0.26666665,,,,,East,North,77,",336,",",7308,",construction/make-up/packing,feature,oven,construction,construction feature,B77.3
+22062,2,11395,22062.2.11395,9.5,,,,,,1,,,,0.005263158,0.611578972,0.055789475,,0.109473685,,East,North,77,",336,",",6056,",construction/make-up/packing,building,,construction,construction building,B77.1.B
 22064,2,11385,22064.2.11385,8,,,,,,,,,,0.02,0.102500003,0.005,,0.025,0.018750001,East,North,77,",336,",",7583,",floors (use),feature,oven,floors,floors oven,B77.2
+22068,2,11379,22068.2.11379,24.5,,,,,,1,,,,0.051428573,1.443673413,0.102857142,0.003265306,0.04122449,,East,North,77,",337,",,construction/make-up/packing,building,,construction,construction building,B77.1.B
+22069,1,11575,22069.1.11575,3,,,,,,,,,,0.006666667,0.203333333,,,0.116666665,,East,North,77,",336,",",7583,",construction/make-up/packing,feature,oven,construction,construction feature,B77.2
+22073,2,11410,22073.2.11410,25,,,,,,1,,,,0.078000003,1.836000037,0.1076,0.015999999,0.052799998,,East,North,77,",337,",",7590,",fill,cut,ditch,fill,fill foundation,B77.1.A
+22075,2,11405,22075.2.11405,16,,,,,,1,,,,0.035,1.301874995,0.073124999,0.005,0.055624998,,East,North,77,",337,",",7591,",fill,cut,foundation cut,fill,fill foundation,B77.1.A
+22077,2,11396,22077.2.11396,5,,,,,,,,,,0.002,0.149999996,0.04,,0.016,,East,North,77,",337,",",7592,",fill,cut,posthole,fill,fill posthole/stakehole,B77.1.A
+22079,2,11412,22079.2.11412,20.5,,,,,,1,,,0.000487805,0.031219512,1.412195152,0.126341465,0.007804878,0.12341463,,East,North,77,",336,",",6051,",construction/make-up/packing,feature,raised area (platform),construction,construction feature,B77.1.B
+22081,2,11414,22081.2.11414,20,,,,,,1,,,,0.002,0.426000011,0.0055,0.004,0.001,,East,North,77,",337,",",7590,",construction/make-up/packing,feature,,construction,construction feature,B77.1.A
+22082,2,11415,22082.2.11415,13.5,,,,,,1,,,,0.016296296,0.380740757,0.073333333,0.011111111,0.018518518,,East,North,77,",337,",",7598,",fill,cut,foundation cut,fill,fill foundation,B77.1.A
+22085,2,11456,22085.2.11456,2,,,,,,,,,,0.029999999,0.995000023,,,,,East,North,77,",336,",",6051,",construction/make-up/packing,feature,raised area (platform),construction,construction feature,B77.2.B
+22088,2,11450,22088.2.11450,11,,,,,,1,,,,,1.000909094,0.045454545,0.010909091,0.029999999,,East,North,77,",336,337,",",3096,7301,",construction/make-up/packing,wall/blocking,,construction,construction wall/blocking,B77.1.A
+22090,2,11542,22090.2.11542,18.5,,,,,,1,,,,0.000540541,0.43675674,0.018918919,0.001621622,0.02,,East,North,77,",336,",",3095,",construction/make-up/packing,wall/blocking,,construction,construction wall/blocking,B77.2
+22091,2,11437,22091.2.11437,23,0.73000004,,,,,1,,,0.002608696,0.093043476,1.808260912,0.080434785,0.002173913,0.036086955,,East,North,77,",336,",",6051,",construction/make-up/packing,feature,raised area (platform),construction,construction feature,B77.1.B
+22092,2,11429,22092.2.11429,5,,,,,,,,,,0.048000001,0.546000004,0.004,,7.16200003,,East,North,77,",336,",,activity,,fire spots (non-structured),activity,activity,B77.1.A
+22095,2,11581,22095.2.11581,1,,,,,,,,,,,,,,0.540000007,,East,North,77,",336,",",7601,",fill,cut,pit,fill,fill pit,B77.1.A
+22099,2,11440,22099.2.11440,10,,,,,,,,,,0.002,0.778999993,0.046000001,,0.002,,East,North,77,",336,",",7591,",fill,cut,foundation cut,fill,fill foundation,B77.1.A
+30102,2,10822,30102.2.10822,32,0.389062494,0.0159375,,,,1,,,,0.0025,0.248437504,0.005625,,0.0121875,,East,North,77,",336,",",6051,",floors (use),feature,raised area (platform),floors,platform,B77.2.D
+30133,2,10941,30133.2.10941,22,,,0.018636363,,,1,,,,0.006363636,0.344545458,0.001363636,,0.002727273,,East,North,77,",336,",,floors (use),building,general,floors,floors,B77.2
+30134,2,10935,30134.2.10935,32,,,,,,1,,,,0.02875,0.25718751,0.3365625,0.0025,0.0321875,,East,North,77,",336,",",6050,",floors (use),feature,,floors,floors unknown,B77.4
+30135,2,10940,30135.2.10940,10,,,,,,1,,,,0.002,0.417000023,0.012,0.002,0.019,,East,North,77,",336,",",7148,",floors (use),feature,bin,floors,floors bin,B77.2
+30136,2,10978,30136.2.10978,25,,,,,,,,,,0.0032,0.426799986,0.048399998,0.0008,0.162399998,0.008,East,North,77,",336,",",6051,",floors (use),building,raised area (platform),floors,platform,
+30152,2,10945,30152.2.10945,20,,,,,,1,,,,0.0305,1.126500029,0.227499999,0.0045,0.132999994,,East,North,77,",336,",,fill,building,,fill,fill building,B77.4
+30154,2,10975,30154.2.10975,48,,,,,,1,0.036041667,0,0.031041667,0.005625,6.62375003,0.035625,0.011041667,0.044583332,0.02125,East,North,77,",336,",",7309,",fill,cut,burial,burial fill,burial fill,B77.2.C
+30155,2,10939,30155.2.10939,10,,,,,,1,,,,0.036,0.260999995,0.01,0.003,0.004,,East,North,77,",336,",,fill,building,,fill,fill building,B77.4
+30159,2,10946,30159.2.10946,3,,,,,,,,,,0.13,0.103333335,0.01,,0.023333333,,East,North,77,",336,",,construction/make-up/packing,between walls,,construction,construction between walls,B77.4
+30160,2,10952,30160.2.10952,4,,,,,,1,,,,0.054999999,0.297500014,0.005,,0.005,,East,North,77,",336,",,floors (use),building,general,floors,floors,B77.4
+30163,2,11000,30163.2.11000,14,,,,,,1,,,0.001428571,0.010714286,0.320714297,0.016428572,,0.007857143,,East,North,77,",336,",,floors (use),building,general,floors,floors,B77.2
+30164,2,10949,30164.2.10949,2,,,,,,,,,,0.420000002,0.140000001,0.01,,,,East,North,77,",336,",",7307,",fill,cut,pit,fill,fill pit,B77.6
+30166,2,10950,30166.2.10950,3,,,,,,1,,,,0.056666666,0.303333327,0.006666667,,,,East,North,77,",336,",,construction/make-up/packing,floor (packing only),,construction,construction floor,B77.3
 30167,3,11190,30167.3.11190,2.5,,,,,,,,,,,0.132,,,,,East,North,77,",336,",",7308,",floors (use),feature,oven,floors,floors oven,B77.3
-19007,2,9156,19007.2.9156,22,,,,,,,,,,0.017272727,0.10954545,0.052272726,,,0.015000001,East,North,77,",336,",",6052,",floors (use),feature,pedestal/podium/plinth,floors,floors pedestal/podium/plynth,B77.7
-19289,2,9445,19289.2.9445,18,,,,,,,,,,0.001666667,0.036666666,0.031111111,0.003333333,0.008333333,,East,North,77,",336,",",6053,",floors (use),feature,pedestal/podium/plinth,floors,floors pedestal/podium/plynth,B77.4
-30102,2,10822,30102.2.10822,32,0.389062494,0.0159375,,,,,,,,0.0025,0.248437504,0.005625,,0.0121875,,East,North,77,",336,",",6051,",floors (use),feature,raised area (platform),floors,platform,B77.2.D
-30134,2,10935,30134.2.10935,32,,,,,,,,,,0.02875,0.25718751,0.3365625,0.0025,0.0321875,,East,North,77,",336,",",6050,",floors (use),feature,,floors,floors unknown,B77.4
-16419,2,8075,16419.2.8075,18,,,,,,,,,,,0.074555557,,,,,East,North,77,",336,337,",,construction/make-up/packing,building,,construction,construction building,B77.A
-22088,2,11450,22088.2.11450,11,,,,,,0.153636369,,,,,1.000909094,0.045454545,0.010909091,0.029999999,,East,North,77,",336,337,",",3096,7301,",construction/make-up/packing,wall/blocking,,construction,construction wall/blocking,B77.1.A
-16401,2,7899,16401.2.7899,26,,,,,,,,,,0.002692308,1.105769202,0.051538462,0.006153846,0.023076923,,East,North,77,",336,337,",,fill,building,,fill,fill building,B77.A
+30170,2,10987,30170.2.10987,5,,,,,,,,,,0.024,0.036000001,0.002,,0.031999999,,East,North,77,",336,",",7108,",construction/make-up/packing,feature,oven,construction,construction feature,B77.6
+30171,2,10973,30171.2.10973,31,,,,,,,,,,0.013225807,0.659354862,0.014193548,,0.025806451,,East,North,77,",336,",",7108,",construction/make-up/packing,feature,oven,construction,construction feature,B77.6
+30174,1,11209,30174.1.11209,2,,,,,,1,,,,,0.315000007,0.02,0.005,0.015,,East,North,77,",336,",,construction/make-up/packing,feature,bin,construction,construction feature,B77.2
+30175,2,11003,30175.2.11003,16,,,,,,1,,,,0.004375,0.562499987,0.079374997,0.0025,0.01,,East,North,77,",336,",,floors (use),building,general,floors,floors,B77.2
+30176,2,10955,30176.2.10955,9,,,,,,,,,,,0.16666666,0.004444444,0.004444444,0.144444444,,East,North,77,",336,",,floors (use),building,general,floors,floors,B77.2
+30195,2,11143,30195.2.11143,23.5,,,,,,1,,,0.035319149,0.002553192,3.073617031,0.15914894,0.005957447,0.028085106,0.024255319,East,North,77,",336,",",7309,",fill,cut,burial,burial fill,burial fill,B77.2.C
+30548,2,10778,30548.2.10778,75,,,0.005066667,,0.053733336,1,,,0.012533333,0.015866667,2.978400013,0.046799999,0.007866667,0.0244,,East,North,77,",336,",",7137,",fill,cut,burial,burial fill,burial fill,B77.3
+30559,2,10696,30559.2.10696,15,,,,,,1,,,,0.001333333,0.11,0.006666667,0.000666667,0.008666667,,East,North,77,",336,",",6051,",floors (use),building,raised area (platform),floors,platform,B77.3
+30590,2,10791,30590.2.10791,28,,,,,,1,,,,0.053214286,0.924285728,0.039285714,0.004285714,0.012857143,,East,North,77,",336,",,fill,cut,pit,fill,fill pit,B77.1.B
+30597,2,10994,30597.2.10994,18,,,0.188888894,,,1,,,,0.023888889,0.911111128,0.044444444,,0.007777778,,East,North,77,",336,",",3617,",construction/make-up/packing,feature,raised area (platform),construction,construction feature,B77.1.B
